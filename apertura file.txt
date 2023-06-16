@@ -1,0 +1,10 @@
+import numpy as np 
+import pandas as pd 
+import matplotlib.pyplot as plt 
+from scipy.constants import golden 
+
+plt.style.use('fivethirtyeight')
+plt.rc('figure', figsize = (5.0, 5.0/golden)) 
+
+impianti = pd.read_csv('impianti.csv', sep = ';', decimal=".", parse_dates=True)
+impianti
