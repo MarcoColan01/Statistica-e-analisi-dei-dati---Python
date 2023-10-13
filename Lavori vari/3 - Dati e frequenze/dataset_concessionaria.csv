@@ -1,0 +1,1001 @@
+ID,Marca,Modello,Anno,Prezzo,Colore,Chilometraggio,Numero_di_Proprietari,Trasmissione,Motorizzazione,Cavalli,Vel_Max,Accelerazione
+1,Audi,RS6,2001,48455,Nero,23420,2,Automatico,Benzina,928,304,8.96
+2,BMW,Jetta,2023,31497,Argento,18937,3,Automatico,Benzina,1234,269,5.04
+3,Audi,Civic,2018,22404,Rosso,147054,2,Automatico,Elettrica,918,240,7.19
+4,Ford,Altima,2011,31970,Rosso,102946,0,Automatico,Ibrida,699,211,9.58
+5,Ford,Focus,2000,37060,Rosso,60846,5,Automatico,Ibrida,949,239,3.93
+6,Ford,Altima,2020,40199,Bianco,78457,5,Manuale,Diesel,867,255,8.4
+7,Audi,3 Series,2005,34225,Blu,11936,4,Automatico,Elettrica,107,301,6.07
+8,Volkswagen,Altima,2004,49960,Argento,129012,1,Automatico,Ibrida,1343,269,5.61
+9,BMW,Civic,2010,45875,Argento,49961,1,Manuale,Elettrica,154,220,7.95
+10,Toyota,3 Series,2010,34602,Rosso,74062,4,Manuale,Benzina,641,261,5.06
+11,Audi,Jetta,2012,17342,Bianco,54984,2,Manuale,Elettrica,316,319,7.32
+12,Nissan,Camry,2016,34300,Rosso,40814,3,Manuale,Diesel,827,304,5.33
+13,Honda,Jetta,2019,9948,Bianco,12457,3,Automatico,Benzina,965,276,8.97
+14,Toyota,Civic,2022,42167,Bianco,119505,0,Automatico,Elettrica,693,288,6.43
+15,Volkswagen,RS6,2013,37143,Nero,46340,2,Automatico,Benzina,72,188,2.96
+16,Toyota,Civic,2016,15086,Blu,18132,4,Automatico,Benzina,1410,199,6.67
+17,BMW,Altima,2020,30225,Argento,57993,3,Manuale,Diesel,398,254,9.2
+18,Volkswagen,C-Class,2013,44466,Nero,36704,5,Automatico,Diesel,149,228,6.18
+19,BMW,Camry,2013,31384,Argento,108048,4,Automatico,Elettrica,136,302,7.47
+20,Nissan,Jetta,2013,45450,Blu,65192,5,Automatico,Ibrida,472,319,8.3
+21,BMW,Camry,2000,43993,Bianco,20962,5,Automatico,Benzina,1253,272,8.38
+22,Toyota,RS6,2003,35308,Rosso,68496,4,Manuale,Diesel,777,209,7.46
+23,Mercedes-Benz,RS6,2021,36355,Rosso,126851,5,Automatico,Benzina,1411,224,3.04
+24,Nissan,Civic,2014,15461,Blu,13537,2,Automatico,Benzina,91,276,5.9
+25,BMW,C-Class,2023,19458,Nero,145247,4,Manuale,Diesel,509,238,4.06
+26,BMW,Jetta,2011,14878,Rosso,43380,1,Manuale,Elettrica,74,221,9.78
+27,Mercedes-Benz,Civic,2020,17370,Rosso,69482,0,Manuale,Benzina,1096,185,5.58
+28,Honda,Malibu,2001,20557,Blu,116084,4,Manuale,Benzina,183,240,8.49
+29,Toyota,Jetta,2017,14279,Rosso,686,1,Manuale,Ibrida,623,259,6.97
+30,Volkswagen,3 Series,2006,23281,Bianco,35249,1,Manuale,Ibrida,870,188,5.18
+31,Volkswagen,Altima,2023,39336,Nero,86199,2,Automatico,Benzina,73,276,7.35
+32,Mercedes-Benz,Jetta,2010,32287,Argento,52020,4,Manuale,Benzina,164,301,8.95
+33,Ford,Altima,2017,8280,Rosso,144075,2,Automatico,Ibrida,1069,243,9.35
+34,Ford,Altima,2019,18736,Rosso,87284,1,Manuale,Ibrida,1230,233,6.24
+35,Mercedes-Benz,Malibu,2017,46460,Argento,48116,2,Automatico,Diesel,984,190,7.77
+36,Toyota,3 Series,2011,36945,Bianco,66953,0,Manuale,Diesel,675,290,6.78
+37,Honda,Focus,2000,41994,Blu,4531,4,Automatico,Diesel,735,195,7.74
+38,Nissan,Jetta,2023,43369,Nero,76069,4,Automatico,Elettrica,442,228,7.01
+39,Toyota,Malibu,2000,14324,Bianco,139628,0,Manuale,Diesel,367,312,6.93
+40,Audi,Jetta,2010,11449,Bianco,89383,1,Manuale,Ibrida,1108,243,5.75
+41,Volkswagen,RS6,2003,24468,Rosso,5838,4,Automatico,Ibrida,998,213,9.76
+42,Toyota,Malibu,2001,32344,Argento,45429,0,Automatico,Ibrida,519,204,9.32
+43,Mercedes-Benz,Malibu,2000,37641,Rosso,49801,3,Manuale,Benzina,492,269,9.89
+44,Mercedes-Benz,Jetta,2004,46647,Bianco,130340,1,Automatico,Elettrica,1020,294,6.24
+45,Mercedes-Benz,3 Series,2015,33328,Nero,123348,3,Manuale,Benzina,555,226,7.85
+46,Audi,RS6,2012,19036,Nero,60714,4,Automatico,Benzina,685,217,4.74
+47,Toyota,Malibu,2023,9739,Argento,94723,1,Automatico,Ibrida,1351,280,3.74
+48,Nissan,Malibu,2019,18871,Rosso,93924,2,Manuale,Ibrida,820,250,8.06
+49,Volkswagen,Altima,2009,27601,Nero,64573,0,Automatico,Ibrida,236,310,3.47
+50,Honda,Malibu,2008,10480,Blu,133444,4,Manuale,Elettrica,1091,241,5.97
+51,Mercedes-Benz,C-Class,2022,9918,Blu,112089,0,Automatico,Diesel,734,265,5.76
+52,Toyota,Altima,2002,36535,Rosso,18425,1,Automatico,Elettrica,685,316,7.67
+53,Toyota,Jetta,2004,21369,Bianco,92481,4,Manuale,Elettrica,1422,186,6.79
+54,Toyota,Jetta,2016,38317,Nero,65570,3,Manuale,Elettrica,1453,253,3.59
+55,Volkswagen,RS6,2008,8306,Bianco,147019,4,Manuale,Benzina,1163,222,6.33
+56,Volkswagen,Camry,2006,15644,Argento,106728,4,Manuale,Benzina,1339,197,5.34
+57,Volkswagen,Focus,2007,23330,Argento,125621,0,Manuale,Diesel,266,186,4.82
+58,Ford,C-Class,2006,26121,Rosso,103635,3,Automatico,Diesel,621,225,4.15
+59,Audi,RS6,2000,47815,Blu,61444,5,Automatico,Diesel,1405,286,4.72
+60,Audi,Civic,2011,15486,Rosso,4489,5,Automatico,Benzina,1258,296,6.06
+61,Honda,Altima,2005,25884,Nero,111727,3,Automatico,Elettrica,1087,235,7.22
+62,BMW,Focus,2020,31228,Rosso,117929,1,Manuale,Diesel,970,187,3.91
+63,Nissan,Focus,2022,41945,Rosso,145704,2,Automatico,Elettrica,1031,292,6.72
+64,Ford,3 Series,2015,15747,Rosso,128546,2,Manuale,Elettrica,928,310,4.74
+65,Audi,C-Class,2010,36504,Rosso,36035,4,Manuale,Elettrica,1409,271,9.47
+66,Nissan,Altima,2019,14709,Blu,98478,4,Manuale,Diesel,849,250,4.31
+67,Honda,3 Series,2004,25899,Nero,62472,4,Manuale,Ibrida,679,210,8.11
+68,BMW,Malibu,2020,14908,Bianco,54109,0,Automatico,Elettrica,1174,249,9.05
+69,Ford,Malibu,2021,32234,Nero,27330,5,Manuale,Diesel,1331,273,9.26
+70,Ford,Focus,2000,34004,Blu,147267,0,Automatico,Ibrida,1014,225,2.56
+71,Ford,Camry,2020,18505,Blu,93934,5,Manuale,Benzina,238,220,6.64
+72,Mercedes-Benz,Jetta,2011,48390,Argento,116367,4,Automatico,Benzina,1274,274,7.73
+73,Honda,Civic,2003,27896,Bianco,127027,3,Manuale,Ibrida,962,298,4.02
+74,Honda,Camry,2016,24046,Nero,16012,3,Automatico,Diesel,215,284,7.16
+75,BMW,Focus,2007,29561,Bianco,102155,3,Automatico,Elettrica,608,233,3.93
+76,Audi,Jetta,2012,43235,Blu,112906,4,Manuale,Ibrida,157,201,8.76
+77,Honda,Malibu,2005,17294,Blu,138023,3,Manuale,Benzina,1360,236,4.94
+78,BMW,C-Class,2014,20559,Nero,41102,4,Manuale,Benzina,389,256,4.88
+79,Audi,C-Class,2001,21654,Nero,109985,5,Manuale,Benzina,485,275,2.84
+80,Honda,Camry,2012,29671,Bianco,109618,4,Automatico,Elettrica,186,187,7.66
+81,BMW,Civic,2004,33470,Bianco,134066,5,Automatico,Benzina,874,213,7.08
+82,Nissan,Jetta,2001,14733,Bianco,62794,3,Manuale,Diesel,794,234,4.07
+83,Audi,Focus,2016,8693,Rosso,35662,2,Manuale,Ibrida,853,245,3.43
+84,Ford,RS6,2012,18362,Rosso,70354,4,Automatico,Benzina,1173,217,7.39
+85,Volkswagen,Jetta,2009,40611,Argento,117417,5,Manuale,Diesel,718,245,5.1
+86,Nissan,C-Class,2002,11782,Rosso,94849,4,Manuale,Elettrica,1094,290,4.94
+87,Volkswagen,RS6,2010,13483,Argento,124240,1,Automatico,Benzina,1456,310,6.01
+88,BMW,Focus,2020,39909,Nero,138295,3,Automatico,Elettrica,1159,265,6.2
+89,Nissan,Malibu,2006,21220,Bianco,20016,3,Manuale,Diesel,1058,219,3.91
+90,BMW,Civic,2017,18075,Nero,63578,2,Automatico,Ibrida,355,303,6.41
+91,Mercedes-Benz,Focus,2015,8386,Bianco,114021,5,Manuale,Benzina,590,228,5.28
+92,Volkswagen,3 Series,2007,29832,Blu,2416,4,Manuale,Benzina,620,275,7.03
+93,Nissan,Jetta,2020,45844,Blu,103064,0,Manuale,Ibrida,194,182,2.79
+94,Volkswagen,Altima,2014,39657,Nero,127746,0,Automatico,Benzina,1358,277,6.9
+95,Ford,RS6,2006,37407,Blu,107326,0,Automatico,Elettrica,939,181,7.86
+96,Volkswagen,Malibu,2001,20446,Blu,55444,5,Automatico,Ibrida,490,216,5.65
+97,Volkswagen,Civic,2002,9059,Rosso,113430,0,Automatico,Diesel,450,216,9.66
+98,Honda,C-Class,2018,12083,Argento,123300,4,Manuale,Benzina,301,183,4.71
+99,Audi,Focus,2009,24207,Rosso,119817,3,Automatico,Benzina,1373,264,7.33
+100,Mercedes-Benz,Jetta,2015,35482,Nero,52644,2,Manuale,Benzina,1296,288,6.58
+101,Audi,Malibu,2003,23157,Argento,141255,0,Manuale,Diesel,1022,282,5.61
+102,Nissan,RS6,2006,41861,Argento,34441,1,Manuale,Elettrica,266,288,9.16
+103,Nissan,Camry,2001,37586,Argento,132794,5,Manuale,Diesel,1460,200,5.88
+104,Mercedes-Benz,Camry,2023,31719,Rosso,53776,2,Manuale,Elettrica,1132,240,6.44
+105,Audi,Jetta,2003,44137,Argento,141356,2,Manuale,Elettrica,1191,210,7.74
+106,Nissan,Malibu,2010,30025,Argento,100349,1,Manuale,Benzina,714,180,9.3
+107,Ford,C-Class,2011,30277,Argento,31825,3,Automatico,Diesel,640,320,8.64
+108,Ford,RS6,2003,20425,Blu,103347,1,Automatico,Benzina,755,306,6.57
+109,Toyota,Malibu,2018,47924,Rosso,142289,4,Automatico,Benzina,1115,309,6.51
+110,Volkswagen,RS6,2003,35569,Blu,122805,1,Manuale,Ibrida,898,256,4.29
+111,Mercedes-Benz,RS6,2023,31829,Bianco,147380,3,Automatico,Benzina,341,299,8.74
+112,Toyota,Malibu,2001,43078,Bianco,34787,3,Automatico,Diesel,1008,273,6.9
+113,Audi,Altima,2013,44986,Rosso,118255,1,Automatico,Ibrida,1441,213,3.81
+114,Volkswagen,Jetta,2008,28189,Nero,101601,4,Automatico,Benzina,1097,193,9.5
+115,Honda,C-Class,2013,39597,Rosso,149075,1,Manuale,Diesel,1434,189,7.48
+116,Volkswagen,RS6,2009,49497,Rosso,46156,5,Manuale,Diesel,338,300,8.25
+117,Volkswagen,Malibu,2020,12214,Bianco,138007,5,Automatico,Benzina,314,300,7.17
+118,Ford,3 Series,2012,25665,Rosso,17697,0,Automatico,Ibrida,224,296,6.05
+119,Honda,Civic,2012,41475,Blu,142582,3,Manuale,Benzina,790,187,4.61
+120,BMW,Malibu,2008,11427,Rosso,140926,5,Manuale,Elettrica,658,292,6.95
+121,Ford,3 Series,2001,43809,Blu,92786,4,Manuale,Elettrica,947,290,3.53
+122,Mercedes-Benz,Jetta,2009,37138,Rosso,117026,2,Manuale,Elettrica,332,302,7.57
+123,Toyota,Malibu,2001,45151,Bianco,62097,1,Automatico,Diesel,288,279,5.62
+124,Nissan,RS6,2023,22569,Rosso,34875,3,Manuale,Diesel,1309,268,4.47
+125,Mercedes-Benz,3 Series,2011,27656,Argento,106713,4,Manuale,Elettrica,1245,268,4.35
+126,Mercedes-Benz,Camry,2011,40889,Argento,123049,0,Automatico,Ibrida,625,318,8.34
+127,Toyota,3 Series,2002,19043,Argento,53831,3,Manuale,Elettrica,615,317,9.08
+128,BMW,Civic,2012,48955,Nero,92981,4,Manuale,Benzina,1195,251,5.91
+129,BMW,Focus,2015,44672,Rosso,41782,1,Automatico,Elettrica,447,252,7.33
+130,Toyota,Focus,2006,29710,Argento,9826,5,Manuale,Elettrica,604,219,6.33
+131,Honda,Malibu,2005,48515,Rosso,149343,3,Manuale,Ibrida,405,239,7.26
+132,Honda,3 Series,2018,13638,Rosso,88116,5,Automatico,Diesel,1122,204,7.27
+133,Honda,C-Class,2005,34395,Rosso,20657,3,Automatico,Ibrida,294,268,5.54
+134,Ford,3 Series,2002,16962,Rosso,95976,5,Automatico,Ibrida,194,308,8.53
+135,Mercedes-Benz,Civic,2020,47656,Bianco,10364,3,Automatico,Elettrica,1061,310,5.66
+136,Ford,Civic,2018,8626,Bianco,16011,3,Automatico,Elettrica,1356,220,9.41
+137,Toyota,Focus,2011,37409,Argento,131815,1,Automatico,Diesel,529,219,6.46
+138,BMW,Jetta,2020,26279,Argento,74898,3,Automatico,Benzina,485,243,3.36
+139,Mercedes-Benz,Jetta,2020,30953,Argento,21796,2,Manuale,Elettrica,1137,261,8.06
+140,Honda,C-Class,2008,22284,Argento,133039,4,Automatico,Ibrida,1375,249,4.98
+141,Nissan,Civic,2005,15567,Rosso,52101,1,Automatico,Diesel,1103,295,9.36
+142,Volkswagen,3 Series,2021,20112,Rosso,9591,0,Manuale,Benzina,1256,297,5.4
+143,BMW,C-Class,2018,41105,Rosso,5076,3,Automatico,Ibrida,1021,229,6.27
+144,Audi,Altima,2006,37278,Argento,115425,1,Automatico,Benzina,677,243,4.69
+145,Ford,RS6,2014,38692,Nero,36739,4,Automatico,Diesel,980,289,2.58
+146,Honda,Civic,2018,41706,Argento,6522,4,Manuale,Diesel,1392,308,9.91
+147,Mercedes-Benz,RS6,2018,39459,Rosso,97173,5,Manuale,Benzina,266,245,8.47
+148,Toyota,RS6,2001,47311,Argento,27646,2,Manuale,Ibrida,1286,232,2.99
+149,Nissan,Malibu,2009,26680,Rosso,148461,3,Automatico,Elettrica,1181,205,8.26
+150,Volkswagen,Camry,2019,43862,Argento,23926,0,Automatico,Ibrida,1215,262,6.77
+151,Audi,3 Series,2020,18949,Bianco,60454,3,Automatico,Benzina,373,240,7.61
+152,Audi,Altima,2007,27707,Blu,85595,3,Automatico,Ibrida,1418,203,3.91
+153,Toyota,Malibu,2012,42421,Nero,126881,4,Manuale,Benzina,620,292,9.16
+154,BMW,Camry,2023,44023,Blu,111786,3,Manuale,Diesel,566,187,8.09
+155,Audi,Focus,2007,27451,Bianco,56411,2,Automatico,Diesel,906,283,4.89
+156,BMW,C-Class,2018,28408,Rosso,115899,2,Manuale,Elettrica,1458,297,7.89
+157,Volkswagen,RS6,2019,34396,Blu,1873,0,Automatico,Benzina,180,286,4.64
+158,Honda,Civic,2018,31347,Nero,19638,1,Manuale,Benzina,457,320,3.64
+159,Ford,Civic,2020,15603,Blu,61057,0,Automatico,Ibrida,622,252,5.58
+160,Toyota,RS6,2016,31578,Bianco,138922,5,Manuale,Elettrica,1387,298,7.83
+161,BMW,C-Class,2005,37326,Bianco,31783,3,Automatico,Benzina,624,268,4.01
+162,Volkswagen,RS6,2000,29160,Rosso,51054,3,Automatico,Elettrica,668,281,6.35
+163,Nissan,C-Class,2013,33950,Argento,1086,1,Manuale,Diesel,1071,228,3.1
+164,Audi,Jetta,2013,15991,Rosso,1964,2,Manuale,Diesel,732,211,4.39
+165,BMW,Altima,2009,42642,Rosso,30277,1,Manuale,Elettrica,831,319,6.16
+166,Volkswagen,Malibu,2002,16937,Bianco,95396,3,Automatico,Elettrica,1468,224,3.98
+167,Nissan,RS6,2001,37669,Argento,8007,4,Automatico,Benzina,475,190,6.37
+168,Volkswagen,3 Series,2004,9743,Blu,139951,1,Automatico,Benzina,1421,210,6.88
+169,Nissan,RS6,2021,45441,Rosso,113026,4,Automatico,Benzina,446,183,8.29
+170,BMW,Focus,2011,13193,Bianco,145740,0,Manuale,Diesel,826,294,8.02
+171,Ford,Malibu,2014,31201,Blu,118901,3,Automatico,Elettrica,301,245,4.75
+172,Ford,Civic,2000,27770,Argento,109874,2,Manuale,Benzina,932,235,6.93
+173,Nissan,Altima,2014,48779,Blu,103477,3,Automatico,Elettrica,448,257,7.63
+174,Honda,Altima,2009,12591,Bianco,132399,0,Automatico,Elettrica,332,283,3.65
+175,Mercedes-Benz,Camry,2014,41843,Argento,9572,1,Automatico,Elettrica,188,309,6.33
+176,Nissan,Focus,2012,14172,Nero,3902,3,Automatico,Ibrida,331,299,3.58
+177,Audi,Jetta,2001,22663,Blu,134388,1,Automatico,Ibrida,541,209,7.72
+178,Volkswagen,Civic,2013,12243,Argento,43803,1,Manuale,Diesel,1167,242,7.98
+179,Ford,Camry,2022,27399,Bianco,108769,3,Manuale,Diesel,493,248,3.33
+180,Mercedes-Benz,RS6,2003,33812,Nero,29987,2,Automatico,Benzina,1308,259,6.74
+181,Nissan,Altima,2004,38737,Rosso,74308,3,Automatico,Elettrica,412,305,4.76
+182,Ford,Jetta,2021,14291,Bianco,33981,4,Manuale,Diesel,1147,202,3.09
+183,Ford,3 Series,2011,28287,Nero,117045,5,Automatico,Elettrica,572,287,6.62
+184,Honda,RS6,2005,49511,Rosso,97842,4,Manuale,Ibrida,641,199,8.41
+185,Volkswagen,Civic,2022,31061,Bianco,89032,3,Manuale,Elettrica,1129,221,6.15
+186,Honda,Camry,2008,19926,Nero,14632,3,Manuale,Elettrica,414,230,6.55
+187,Ford,C-Class,2022,18572,Bianco,142549,4,Manuale,Benzina,889,311,5.97
+188,Ford,Focus,2000,30684,Nero,67478,2,Manuale,Diesel,333,220,6.62
+189,Toyota,Altima,2006,23585,Bianco,62870,1,Manuale,Ibrida,258,274,4.63
+190,Honda,Malibu,2023,42552,Rosso,87504,5,Automatico,Elettrica,456,194,9.98
+191,Audi,Malibu,2006,9274,Rosso,85374,1,Manuale,Elettrica,377,267,2.64
+192,Honda,3 Series,2013,37097,Bianco,5051,4,Automatico,Diesel,117,248,9.4
+193,Audi,3 Series,2000,40055,Argento,143689,0,Automatico,Benzina,690,272,8.5
+194,Ford,Altima,2005,16358,Bianco,127856,3,Manuale,Elettrica,1148,317,5.58
+195,Nissan,RS6,2001,32554,Rosso,3395,4,Manuale,Benzina,1415,305,8.57
+196,Mercedes-Benz,RS6,2022,30697,Argento,148677,1,Automatico,Diesel,883,270,6.21
+197,Nissan,Camry,2002,23305,Rosso,49240,1,Manuale,Ibrida,100,220,5.18
+198,Volkswagen,Malibu,2019,48172,Bianco,7388,2,Manuale,Benzina,1314,223,8.73
+199,Honda,Focus,2022,26291,Nero,52078,2,Manuale,Diesel,1276,304,3.1
+200,Honda,Jetta,2008,48216,Bianco,86207,5,Manuale,Diesel,608,320,5.75
+201,Mercedes-Benz,Camry,2019,36834,Bianco,62859,2,Manuale,Ibrida,277,245,6.15
+202,Mercedes-Benz,C-Class,2008,20385,Rosso,103564,5,Manuale,Diesel,1358,301,4.62
+203,Volkswagen,Malibu,2019,11923,Argento,139966,2,Automatico,Elettrica,1017,291,6.9
+204,Toyota,Malibu,2009,34648,Argento,98088,1,Automatico,Ibrida,1310,197,5.91
+205,Toyota,RS6,2002,42678,Bianco,123960,0,Automatico,Elettrica,935,288,4.29
+206,Volkswagen,Jetta,2002,10796,Bianco,34266,1,Automatico,Benzina,1261,289,3.13
+207,Audi,Malibu,2008,45363,Rosso,144291,5,Automatico,Ibrida,1101,302,7.52
+208,Nissan,Altima,2011,26899,Bianco,59329,2,Automatico,Elettrica,1150,230,7.29
+209,Volkswagen,Jetta,2021,18834,Blu,104896,5,Automatico,Ibrida,602,281,5.93
+210,BMW,Altima,2013,10389,Bianco,143201,1,Manuale,Elettrica,476,249,6.31
+211,Toyota,C-Class,2023,32212,Argento,7997,1,Manuale,Benzina,122,221,4.08
+212,Volkswagen,RS6,2011,38159,Rosso,117747,0,Automatico,Diesel,435,209,4.45
+213,Mercedes-Benz,RS6,2004,40255,Bianco,42949,1,Automatico,Ibrida,1463,262,3.93
+214,Audi,Jetta,2012,17755,Rosso,72390,1,Automatico,Elettrica,343,231,3.34
+215,Toyota,Civic,2017,23890,Nero,79427,5,Automatico,Ibrida,603,262,3.89
+216,Nissan,Focus,2008,41375,Argento,19057,0,Manuale,Ibrida,971,224,5.18
+217,Audi,RS6,2021,49448,Argento,75612,3,Automatico,Diesel,361,219,5.64
+218,Toyota,Civic,2021,20047,Bianco,9686,0,Manuale,Elettrica,1048,308,4.03
+219,Ford,3 Series,2014,36802,Argento,127191,2,Manuale,Elettrica,760,295,3.33
+220,Mercedes-Benz,Civic,2009,36412,Nero,49555,4,Automatico,Diesel,1334,202,4.18
+221,Ford,Civic,2002,47351,Argento,135677,5,Automatico,Elettrica,360,273,6.87
+222,Ford,Altima,2006,26172,Rosso,50278,1,Automatico,Benzina,152,319,3.54
+223,Nissan,Camry,2003,35903,Rosso,59604,4,Manuale,Diesel,319,299,9.56
+224,Mercedes-Benz,Focus,2015,11821,Rosso,46822,3,Manuale,Benzina,494,288,8.87
+225,Honda,Altima,2022,17438,Bianco,56580,4,Manuale,Ibrida,891,229,5.54
+226,Toyota,3 Series,2008,25893,Blu,788,2,Manuale,Elettrica,684,264,2.53
+227,Audi,Focus,2008,22325,Bianco,76605,0,Manuale,Benzina,89,260,7.3
+228,Audi,Malibu,2018,41606,Rosso,117700,2,Manuale,Ibrida,854,208,4.52
+229,BMW,Civic,2016,43460,Nero,64047,0,Manuale,Elettrica,954,195,9.25
+230,Mercedes-Benz,3 Series,2014,38357,Bianco,109525,5,Manuale,Benzina,565,282,3.04
+231,Mercedes-Benz,3 Series,2017,25317,Argento,69943,2,Automatico,Ibrida,1126,286,6.2
+232,Volkswagen,Malibu,2014,18941,Argento,73337,2,Manuale,Elettrica,1100,309,8.58
+233,Honda,Camry,2021,13272,Bianco,116703,1,Automatico,Elettrica,522,272,6.18
+234,Volkswagen,C-Class,2006,38296,Bianco,93388,2,Automatico,Elettrica,964,202,7.49
+235,BMW,C-Class,2005,21039,Blu,48640,0,Automatico,Diesel,929,181,4.59
+236,Toyota,RS6,2023,48858,Argento,130490,1,Automatico,Ibrida,967,247,5.61
+237,Nissan,Malibu,2016,28989,Argento,64218,3,Automatico,Elettrica,1444,188,7.13
+238,Audi,RS6,2017,41811,Nero,93081,2,Automatico,Elettrica,974,238,8.38
+239,Mercedes-Benz,3 Series,2008,42745,Blu,81447,1,Automatico,Benzina,1383,227,7.53
+240,BMW,Malibu,2012,29053,Blu,130497,5,Automatico,Elettrica,539,287,6.77
+241,Nissan,C-Class,2016,19400,Nero,25764,3,Manuale,Ibrida,946,223,4.73
+242,BMW,Camry,2009,28159,Argento,85304,0,Automatico,Elettrica,772,212,9.09
+243,Audi,RS6,2003,28765,Nero,51436,5,Automatico,Elettrica,818,241,5.66
+244,Honda,Altima,2012,42955,Argento,141833,2,Manuale,Diesel,788,270,9.32
+245,Honda,C-Class,2005,29401,Bianco,92753,5,Automatico,Diesel,979,292,7.58
+246,BMW,Altima,2005,26123,Argento,68277,5,Automatico,Ibrida,849,233,6.25
+247,BMW,Jetta,2022,15174,Blu,126354,0,Manuale,Ibrida,1138,243,6.9
+248,Ford,Altima,2020,40715,Argento,22449,4,Automatico,Benzina,1247,255,4.7
+249,BMW,Civic,2022,24905,Bianco,64047,0,Manuale,Diesel,497,195,7.63
+250,Ford,Camry,2013,35537,Rosso,128515,4,Manuale,Elettrica,1237,212,8.64
+251,Audi,RS6,2004,46109,Nero,69766,0,Automatico,Elettrica,57,250,9.66
+252,Nissan,C-Class,2001,27618,Rosso,69609,1,Manuale,Ibrida,138,299,8.61
+253,Audi,C-Class,2010,33576,Blu,142631,2,Automatico,Ibrida,1328,255,8.37
+254,Audi,Camry,2023,33545,Blu,6167,4,Manuale,Elettrica,226,240,5.43
+255,Toyota,C-Class,2007,43557,Argento,8284,5,Automatico,Benzina,239,206,4.24
+256,Nissan,Malibu,2017,47141,Bianco,108071,3,Manuale,Benzina,629,319,8.64
+257,Toyota,Camry,2017,26352,Blu,117977,0,Manuale,Diesel,755,278,7.65
+258,Volkswagen,Malibu,2002,39684,Blu,135512,3,Automatico,Ibrida,1074,288,7.52
+259,Audi,Camry,2006,18249,Argento,126273,5,Manuale,Ibrida,529,301,9.33
+260,BMW,Altima,2015,26522,Argento,38195,0,Manuale,Elettrica,960,313,3.09
+261,Nissan,Camry,2019,21836,Blu,39948,3,Automatico,Elettrica,398,199,7.85
+262,Volkswagen,Focus,2021,39068,Nero,138905,2,Manuale,Benzina,182,239,7.26
+263,Nissan,Jetta,2005,42342,Rosso,58293,1,Manuale,Ibrida,154,191,4.83
+264,Toyota,C-Class,2008,25835,Blu,110041,0,Manuale,Elettrica,754,277,8.47
+265,Audi,Camry,2012,46857,Nero,10622,4,Manuale,Ibrida,1114,221,8.47
+266,BMW,3 Series,2007,12599,Rosso,60532,1,Automatico,Benzina,412,296,9.43
+267,Toyota,RS6,2020,24323,Blu,118771,4,Automatico,Elettrica,318,318,9.72
+268,Volkswagen,Focus,2004,24700,Bianco,131541,1,Manuale,Benzina,1456,223,8.12
+269,Audi,3 Series,2020,46622,Nero,11716,1,Automatico,Ibrida,1088,198,8.8
+270,Honda,C-Class,2023,28462,Bianco,18253,0,Automatico,Benzina,793,256,2.69
+271,Toyota,Camry,2006,30031,Rosso,98823,1,Automatico,Ibrida,1398,290,7.82
+272,Ford,Civic,2009,35660,Bianco,97262,0,Manuale,Ibrida,341,319,4.67
+273,Volkswagen,Jetta,2019,23637,Bianco,16115,3,Manuale,Elettrica,1438,190,3.01
+274,Mercedes-Benz,Altima,2004,33863,Nero,71637,2,Manuale,Diesel,1328,247,9.84
+275,Toyota,Focus,2020,32740,Argento,122855,0,Manuale,Elettrica,942,192,9.0
+276,Audi,Malibu,2011,36794,Nero,146876,3,Automatico,Elettrica,1326,217,8.06
+277,Toyota,Camry,2014,11124,Rosso,44569,0,Automatico,Elettrica,190,219,7.19
+278,Mercedes-Benz,RS6,2021,27017,Bianco,80166,4,Manuale,Ibrida,457,261,6.69
+279,Volkswagen,Focus,2011,35678,Blu,92629,5,Manuale,Benzina,764,183,6.4
+280,Volkswagen,Focus,2017,24896,Nero,14099,1,Manuale,Diesel,582,269,8.41
+281,Nissan,Malibu,2016,45371,Blu,44540,2,Manuale,Benzina,630,258,2.72
+282,Toyota,Jetta,2006,36218,Rosso,91110,1,Manuale,Benzina,599,221,5.5
+283,Ford,RS6,2016,12411,Rosso,30258,1,Automatico,Benzina,698,308,2.67
+284,Nissan,Malibu,2008,36611,Nero,14374,4,Manuale,Ibrida,723,238,3.15
+285,Audi,Civic,2005,37329,Bianco,121682,5,Manuale,Diesel,1465,277,3.16
+286,Volkswagen,Malibu,2006,14218,Nero,142198,3,Automatico,Diesel,1353,280,5.24
+287,Ford,Malibu,2022,33941,Rosso,41238,3,Manuale,Benzina,1219,258,3.51
+288,Mercedes-Benz,Civic,2015,11918,Rosso,113788,4,Automatico,Diesel,1248,192,5.51
+289,Toyota,Civic,2003,47126,Bianco,114196,3,Automatico,Elettrica,232,232,6.44
+290,Toyota,3 Series,2000,24423,Rosso,53172,4,Automatico,Diesel,1205,215,8.46
+291,BMW,RS6,2021,35122,Nero,88556,4,Manuale,Benzina,795,308,4.99
+292,Honda,Civic,2017,49719,Nero,24947,1,Manuale,Diesel,392,262,9.28
+293,Honda,Jetta,2020,18296,Blu,56500,3,Automatico,Elettrica,1296,258,8.06
+294,Mercedes-Benz,Malibu,2007,41595,Nero,58568,1,Automatico,Benzina,1097,199,4.22
+295,Ford,C-Class,2004,26087,Blu,17101,5,Manuale,Benzina,524,313,5.62
+296,Ford,Camry,2023,47880,Bianco,11125,3,Manuale,Ibrida,1205,293,3.41
+297,Volkswagen,Jetta,2003,46952,Rosso,146914,5,Automatico,Benzina,1284,311,6.54
+298,Volkswagen,Camry,2015,23536,Nero,75759,5,Manuale,Benzina,214,287,3.28
+299,BMW,Focus,2002,48180,Blu,82321,0,Automatico,Diesel,1065,302,9.39
+300,Nissan,Focus,2012,26320,Bianco,143058,0,Automatico,Ibrida,1274,254,9.81
+301,Ford,Civic,2009,45769,Nero,65750,5,Automatico,Benzina,403,250,4.56
+302,Mercedes-Benz,Jetta,2014,49672,Rosso,111218,2,Manuale,Diesel,928,313,6.86
+303,Volkswagen,Camry,2015,21720,Nero,59479,5,Automatico,Benzina,1043,298,7.67
+304,Nissan,Malibu,2022,21281,Nero,73688,3,Manuale,Elettrica,795,307,4.95
+305,Ford,Civic,2008,46734,Nero,124518,3,Automatico,Diesel,401,250,8.92
+306,Mercedes-Benz,3 Series,2023,8792,Bianco,136057,4,Manuale,Diesel,1299,272,5.69
+307,Audi,Focus,2017,40851,Blu,55895,4,Manuale,Elettrica,851,227,7.38
+308,Honda,C-Class,2017,39908,Blu,69320,4,Automatico,Elettrica,367,309,6.26
+309,Audi,C-Class,2001,16759,Argento,94967,5,Automatico,Diesel,541,297,3.33
+310,Ford,Camry,2019,16871,Argento,129965,3,Manuale,Elettrica,369,269,5.39
+311,Ford,Malibu,2016,47956,Bianco,135483,3,Automatico,Ibrida,1250,317,9.44
+312,Nissan,Civic,2018,41036,Rosso,138268,5,Manuale,Benzina,1173,312,6.67
+313,Audi,RS6,2008,20408,Blu,12684,3,Manuale,Ibrida,97,273,3.84
+314,Mercedes-Benz,Camry,2004,20510,Blu,111335,0,Automatico,Diesel,515,182,5.91
+315,BMW,Jetta,2019,12188,Bianco,117380,1,Manuale,Ibrida,522,213,7.89
+316,BMW,C-Class,2009,38696,Blu,16049,2,Manuale,Elettrica,129,191,7.56
+317,Audi,C-Class,2016,39073,Nero,98214,4,Manuale,Ibrida,996,308,7.41
+318,Audi,Civic,2002,30739,Rosso,132447,4,Automatico,Elettrica,136,302,3.0
+319,Audi,Altima,2018,37282,Rosso,124894,0,Manuale,Diesel,443,250,4.95
+320,Mercedes-Benz,RS6,2010,13053,Bianco,26656,3,Manuale,Elettrica,1004,231,7.9
+321,Audi,Focus,2021,18474,Rosso,3739,5,Automatico,Diesel,178,186,8.9
+322,Ford,Altima,2000,27326,Blu,106547,2,Manuale,Elettrica,868,256,3.05
+323,Toyota,3 Series,2015,16642,Argento,143354,0,Automatico,Benzina,774,302,5.04
+324,Nissan,Civic,2005,37556,Rosso,105994,2,Manuale,Benzina,387,255,6.32
+325,Nissan,RS6,2015,32863,Argento,40500,0,Manuale,Elettrica,124,238,5.67
+326,Audi,Civic,2004,15205,Blu,20099,0,Manuale,Benzina,963,183,9.58
+327,Audi,Altima,2000,34285,Argento,52864,0,Manuale,Benzina,1490,242,8.08
+328,Volkswagen,Camry,2019,49618,Blu,130052,3,Manuale,Ibrida,672,235,3.2
+329,BMW,Focus,2019,42647,Argento,140825,1,Automatico,Benzina,704,273,3.06
+330,Honda,Camry,2015,29232,Blu,87952,5,Automatico,Benzina,586,228,6.29
+331,BMW,Camry,2018,25619,Nero,102504,1,Manuale,Diesel,1115,245,6.89
+332,Ford,RS6,2008,10968,Rosso,140428,1,Manuale,Elettrica,787,253,7.24
+333,Toyota,3 Series,2002,42671,Rosso,137736,1,Manuale,Ibrida,819,216,8.23
+334,Audi,Altima,2014,41996,Blu,117663,2,Automatico,Benzina,446,272,3.39
+335,Toyota,Malibu,2008,31227,Argento,139930,4,Automatico,Benzina,709,200,7.87
+336,Ford,3 Series,2021,13898,Rosso,10645,3,Automatico,Elettrica,859,303,5.25
+337,Nissan,3 Series,2013,18234,Blu,71976,0,Automatico,Benzina,729,267,4.16
+338,BMW,Jetta,2013,23913,Rosso,89877,2,Manuale,Ibrida,376,318,9.8
+339,Mercedes-Benz,Jetta,2013,19355,Argento,5036,1,Automatico,Elettrica,1286,238,3.42
+340,Ford,Civic,2013,37198,Rosso,63095,5,Automatico,Ibrida,1162,233,4.64
+341,BMW,C-Class,2005,17121,Rosso,62984,4,Automatico,Benzina,63,181,7.88
+342,BMW,Focus,2012,23303,Blu,47302,5,Manuale,Benzina,631,244,6.73
+343,Honda,Focus,2023,8067,Rosso,48942,5,Automatico,Benzina,1078,239,8.03
+344,BMW,Altima,2004,27035,Nero,142219,4,Manuale,Benzina,650,274,5.38
+345,Toyota,Focus,2022,22901,Nero,28048,3,Manuale,Diesel,1390,197,9.36
+346,BMW,RS6,2007,47218,Blu,64468,1,Automatico,Ibrida,222,209,8.69
+347,Honda,Malibu,2013,12568,Rosso,41009,2,Automatico,Ibrida,1302,239,4.09
+348,Nissan,Malibu,2016,32665,Nero,106967,1,Automatico,Benzina,186,288,8.54
+349,Honda,Malibu,2019,24316,Bianco,35945,0,Automatico,Ibrida,1255,207,5.59
+350,Audi,Camry,2010,17813,Rosso,129228,3,Automatico,Elettrica,1417,260,4.95
+351,Volkswagen,Malibu,2002,47238,Rosso,76621,5,Automatico,Benzina,675,279,8.16
+352,Ford,Altima,2007,20435,Nero,113578,2,Manuale,Diesel,474,309,5.98
+353,Volkswagen,Jetta,2012,20266,Blu,18373,5,Manuale,Elettrica,1250,283,7.29
+354,Ford,Civic,2006,19747,Bianco,136924,4,Manuale,Diesel,901,248,5.35
+355,Nissan,Altima,2005,47574,Blu,116454,4,Manuale,Diesel,1379,296,9.7
+356,BMW,Focus,2022,11624,Bianco,30854,5,Manuale,Elettrica,764,267,9.21
+357,Mercedes-Benz,RS6,2003,18295,Rosso,18868,2,Manuale,Ibrida,1383,200,7.83
+358,Honda,C-Class,2017,16856,Bianco,135485,2,Automatico,Elettrica,377,190,9.05
+359,Volkswagen,Civic,2009,38845,Argento,148891,4,Manuale,Elettrica,1275,212,6.67
+360,Toyota,3 Series,2020,9686,Argento,50502,3,Manuale,Ibrida,1336,316,3.51
+361,Mercedes-Benz,Malibu,2017,20320,Blu,129967,2,Manuale,Benzina,519,284,6.48
+362,Audi,Civic,2013,45169,Nero,99461,5,Automatico,Diesel,482,303,4.02
+363,Volkswagen,3 Series,2020,41141,Bianco,74338,0,Automatico,Benzina,202,184,5.23
+364,BMW,Altima,2001,38336,Bianco,99817,4,Manuale,Benzina,431,205,9.81
+365,BMW,Jetta,2016,23177,Bianco,95543,1,Manuale,Benzina,1321,267,6.95
+366,Toyota,Camry,2023,12381,Bianco,2402,1,Manuale,Ibrida,836,267,6.52
+367,Volkswagen,C-Class,2017,11030,Bianco,102864,5,Automatico,Diesel,192,198,2.73
+368,BMW,Malibu,2022,48925,Nero,21436,5,Manuale,Elettrica,768,194,4.62
+369,Volkswagen,Civic,2000,24852,Nero,113371,0,Automatico,Ibrida,538,224,6.37
+370,Nissan,RS6,2012,31720,Argento,93295,4,Manuale,Elettrica,1411,256,3.25
+371,Toyota,Camry,2000,14773,Blu,22755,3,Automatico,Ibrida,1194,210,2.54
+372,Mercedes-Benz,Civic,2014,22195,Argento,146500,2,Automatico,Benzina,1342,193,3.17
+373,Mercedes-Benz,RS6,2022,39235,Bianco,26373,3,Manuale,Benzina,597,278,6.78
+374,Volkswagen,RS6,2006,9588,Rosso,35467,1,Automatico,Ibrida,841,217,9.11
+375,Audi,Focus,2010,15714,Bianco,50060,5,Automatico,Ibrida,735,200,3.14
+376,Nissan,RS6,2004,23929,Rosso,49914,4,Automatico,Benzina,423,318,7.74
+377,BMW,Focus,2011,36730,Blu,51254,1,Automatico,Ibrida,461,196,9.87
+378,Ford,Malibu,2003,36147,Nero,98877,1,Automatico,Diesel,745,232,6.89
+379,BMW,Altima,2001,8272,Nero,101740,4,Manuale,Elettrica,346,253,9.24
+380,BMW,RS6,2012,48225,Blu,107424,0,Automatico,Benzina,1444,287,5.61
+381,Ford,Malibu,2009,29838,Nero,98071,2,Manuale,Diesel,559,257,7.28
+382,Nissan,Altima,2016,20085,Argento,42133,0,Manuale,Benzina,1092,243,6.11
+383,Audi,Jetta,2012,22608,Rosso,72435,5,Automatico,Diesel,883,315,8.77
+384,Honda,C-Class,2020,34083,Nero,129398,3,Manuale,Diesel,372,206,5.91
+385,Nissan,RS6,2007,23470,Bianco,43468,2,Automatico,Benzina,746,319,6.97
+386,Mercedes-Benz,Focus,2003,26775,Rosso,74395,4,Manuale,Ibrida,1218,316,7.26
+387,Audi,Altima,2007,20265,Blu,95221,4,Manuale,Diesel,1247,272,4.72
+388,Mercedes-Benz,Civic,2019,9725,Rosso,86446,0,Automatico,Elettrica,1390,306,3.96
+389,Honda,RS6,2018,27277,Argento,34728,2,Manuale,Diesel,1111,302,5.35
+390,BMW,Camry,2013,14043,Argento,97595,4,Manuale,Elettrica,197,185,3.16
+391,Honda,C-Class,2004,22414,Nero,58606,3,Manuale,Benzina,577,221,8.86
+392,Honda,3 Series,2000,20729,Rosso,105553,5,Manuale,Diesel,1492,317,7.74
+393,Honda,Focus,2012,21904,Argento,17519,4,Automatico,Elettrica,981,301,4.87
+394,Nissan,C-Class,2022,38757,Blu,134390,4,Automatico,Elettrica,71,286,2.97
+395,Mercedes-Benz,C-Class,2008,24680,Argento,13612,0,Manuale,Diesel,107,288,5.14
+396,Mercedes-Benz,Focus,2014,34684,Argento,54449,4,Manuale,Benzina,402,288,4.71
+397,BMW,Camry,2002,30577,Bianco,3727,5,Automatico,Diesel,1173,196,7.56
+398,Honda,RS6,2014,19881,Rosso,93188,4,Automatico,Diesel,803,215,8.66
+399,Ford,3 Series,2008,42517,Nero,67914,1,Automatico,Ibrida,741,256,3.32
+400,Honda,Altima,2002,27584,Blu,99463,2,Automatico,Elettrica,1427,231,8.37
+401,Mercedes-Benz,Jetta,2022,20443,Rosso,286,3,Automatico,Benzina,711,316,5.88
+402,Audi,Altima,2020,47401,Blu,132301,4,Manuale,Benzina,835,229,8.31
+403,Honda,C-Class,2000,16617,Blu,106314,2,Manuale,Ibrida,1368,186,7.81
+404,Nissan,Camry,2017,38577,Nero,30512,3,Automatico,Diesel,1212,238,3.77
+405,Audi,Focus,2023,44760,Bianco,25716,3,Automatico,Elettrica,1035,297,4.74
+406,Audi,Altima,2000,28714,Blu,56893,3,Manuale,Benzina,99,222,7.36
+407,Mercedes-Benz,Camry,2008,47511,Blu,46147,5,Manuale,Ibrida,1108,294,7.49
+408,Mercedes-Benz,RS6,2016,19163,Nero,139472,5,Automatico,Diesel,567,211,5.78
+409,Volkswagen,Malibu,2010,19508,Rosso,97965,1,Manuale,Benzina,840,206,6.68
+410,Audi,3 Series,2016,42072,Nero,92312,2,Manuale,Diesel,1387,282,7.14
+411,Toyota,RS6,2022,36834,Bianco,117804,0,Manuale,Ibrida,370,245,3.5
+412,BMW,Civic,2015,49024,Blu,75775,4,Automatico,Elettrica,64,305,5.49
+413,Audi,RS6,2016,13498,Argento,77160,2,Manuale,Benzina,864,268,2.64
+414,Mercedes-Benz,Malibu,2015,34458,Bianco,140654,5,Automatico,Elettrica,885,320,9.52
+415,Mercedes-Benz,Jetta,2006,34664,Blu,87173,4,Automatico,Elettrica,420,199,7.29
+416,Ford,Civic,2004,21352,Blu,135436,4,Automatico,Benzina,287,257,6.21
+417,Audi,Focus,2012,35468,Nero,129219,4,Manuale,Elettrica,1177,196,7.29
+418,Honda,Civic,2012,12538,Argento,60937,3,Automatico,Ibrida,606,187,5.07
+419,Audi,Malibu,2016,37853,Blu,112887,4,Automatico,Elettrica,1073,223,4.35
+420,Honda,Focus,2021,49638,Argento,51289,3,Automatico,Benzina,644,254,4.62
+421,Ford,Malibu,2003,23126,Rosso,50943,1,Automatico,Elettrica,912,275,7.7
+422,Audi,Jetta,2007,10727,Bianco,25138,3,Automatico,Elettrica,1321,202,7.52
+423,Volkswagen,C-Class,2016,31031,Argento,2087,5,Manuale,Ibrida,1211,223,6.92
+424,Nissan,3 Series,2001,37392,Nero,51403,5,Manuale,Diesel,612,308,7.17
+425,Toyota,Focus,2020,23177,Rosso,78867,4,Automatico,Diesel,141,306,9.54
+426,Volkswagen,Camry,2014,31997,Rosso,72748,0,Manuale,Diesel,315,320,8.71
+427,Toyota,Jetta,2016,41035,Rosso,132430,1,Automatico,Diesel,1436,220,6.8
+428,Toyota,RS6,2008,31963,Blu,407,1,Manuale,Diesel,1403,310,9.48
+429,BMW,Civic,2015,35366,Blu,132294,4,Manuale,Benzina,668,271,7.51
+430,Volkswagen,Focus,2021,39518,Rosso,15135,1,Automatico,Ibrida,1070,250,3.88
+431,Volkswagen,Malibu,2010,29538,Bianco,135538,5,Automatico,Benzina,559,207,6.62
+432,Nissan,Malibu,2012,26263,Argento,65223,2,Manuale,Ibrida,1387,207,5.49
+433,Ford,Focus,2008,29929,Blu,81778,0,Automatico,Elettrica,1005,269,3.43
+434,Ford,Civic,2009,24447,Blu,3096,4,Automatico,Ibrida,816,297,5.64
+435,Ford,Jetta,2017,24311,Nero,143106,4,Automatico,Benzina,1445,244,5.74
+436,Ford,Camry,2023,39244,Bianco,113118,4,Manuale,Diesel,593,301,5.53
+437,Honda,RS6,2019,25935,Argento,105495,3,Manuale,Ibrida,1291,214,9.15
+438,BMW,C-Class,2022,21456,Blu,88997,4,Manuale,Elettrica,1026,253,9.32
+439,BMW,Jetta,2020,8784,Bianco,77373,5,Automatico,Diesel,349,213,6.55
+440,BMW,Malibu,2002,23735,Blu,82458,1,Manuale,Ibrida,218,184,5.13
+441,Volkswagen,Focus,2007,26933,Blu,76106,2,Manuale,Benzina,323,227,3.75
+442,Volkswagen,Malibu,2023,28487,Blu,125879,0,Manuale,Elettrica,292,196,8.6
+443,Toyota,Focus,2016,21109,Bianco,74925,2,Manuale,Diesel,1294,189,2.7
+444,Nissan,C-Class,2012,30255,Bianco,92183,1,Manuale,Ibrida,347,291,8.75
+445,Volkswagen,C-Class,2021,40827,Nero,61577,4,Manuale,Elettrica,147,243,3.99
+446,Audi,Altima,2005,43455,Rosso,83921,2,Automatico,Elettrica,306,217,4.24
+447,BMW,Focus,2013,37699,Argento,112083,2,Manuale,Ibrida,941,243,4.06
+448,Audi,Civic,2023,48007,Blu,8495,0,Automatico,Benzina,295,256,8.42
+449,Nissan,RS6,2017,22410,Argento,67859,0,Automatico,Benzina,777,265,3.63
+450,Honda,Civic,2000,24259,Bianco,30594,5,Manuale,Ibrida,540,222,3.41
+451,Mercedes-Benz,Jetta,2015,34046,Rosso,22187,1,Automatico,Diesel,145,273,6.41
+452,Volkswagen,3 Series,2004,36581,Rosso,48167,2,Manuale,Diesel,682,302,8.13
+453,Toyota,Jetta,2007,41414,Blu,10575,1,Automatico,Ibrida,929,262,8.33
+454,BMW,C-Class,2007,37896,Blu,16808,2,Automatico,Benzina,526,283,8.25
+455,BMW,Malibu,2023,47919,Argento,10019,5,Manuale,Elettrica,1454,188,4.43
+456,Volkswagen,Focus,2011,19299,Rosso,92717,5,Manuale,Ibrida,1497,252,6.2
+457,Ford,Jetta,2020,27436,Bianco,30462,0,Manuale,Ibrida,237,258,4.96
+458,Audi,RS6,2009,39680,Rosso,58066,3,Automatico,Benzina,344,306,8.59
+459,Nissan,RS6,2003,31200,Blu,16914,5,Manuale,Elettrica,272,240,2.89
+460,Nissan,Camry,2006,17080,Argento,81281,4,Manuale,Elettrica,1032,190,5.83
+461,Toyota,Focus,2021,27812,Bianco,32419,3,Manuale,Ibrida,1434,258,9.79
+462,Honda,RS6,2011,27797,Nero,12072,4,Manuale,Benzina,701,291,3.09
+463,Ford,RS6,2004,42506,Blu,117267,5,Manuale,Ibrida,1318,299,8.77
+464,Honda,Civic,2018,39905,Rosso,48346,3,Manuale,Elettrica,979,213,8.82
+465,Nissan,Civic,2022,26818,Blu,47658,5,Automatico,Benzina,714,235,8.09
+466,Nissan,3 Series,2016,17834,Bianco,43306,4,Manuale,Benzina,1048,213,4.78
+467,Audi,Malibu,2013,46621,Rosso,74531,5,Automatico,Benzina,373,204,7.85
+468,BMW,Focus,2018,37771,Nero,2545,2,Automatico,Diesel,582,227,3.56
+469,Ford,Focus,2007,46994,Rosso,109399,3,Manuale,Ibrida,945,197,6.14
+470,BMW,C-Class,2023,17194,Rosso,137043,5,Manuale,Elettrica,813,270,8.04
+471,Audi,Camry,2009,24329,Rosso,19494,4,Manuale,Elettrica,635,259,5.82
+472,Mercedes-Benz,Malibu,2016,41621,Bianco,17226,1,Manuale,Ibrida,55,275,3.63
+473,Audi,Altima,2006,43273,Blu,81413,4,Automatico,Elettrica,1351,263,9.15
+474,Ford,Jetta,2007,18985,Blu,102150,5,Manuale,Benzina,569,221,8.65
+475,Ford,Focus,2000,25971,Argento,135366,1,Manuale,Elettrica,833,191,2.72
+476,Volkswagen,Jetta,2014,31735,Blu,119842,0,Automatico,Elettrica,124,314,5.82
+477,Ford,3 Series,2017,8575,Nero,18051,5,Manuale,Ibrida,208,208,9.3
+478,Toyota,RS6,2008,28256,Bianco,11864,0,Automatico,Benzina,1039,278,9.03
+479,Ford,3 Series,2016,38887,Nero,91954,1,Automatico,Elettrica,415,255,2.83
+480,BMW,Malibu,2020,27687,Argento,97418,1,Manuale,Diesel,1321,186,4.82
+481,Nissan,Jetta,2018,16548,Rosso,81339,4,Automatico,Diesel,1137,236,3.63
+482,Honda,Focus,2015,43270,Bianco,132618,3,Automatico,Benzina,1228,298,2.77
+483,Toyota,RS6,2000,44430,Bianco,76859,3,Manuale,Diesel,711,182,3.4
+484,Volkswagen,Altima,2017,10549,Blu,44741,2,Automatico,Ibrida,1389,301,5.74
+485,BMW,Civic,2010,33559,Blu,141959,0,Manuale,Diesel,589,298,8.2
+486,Volkswagen,Focus,2017,46374,Argento,33864,2,Automatico,Elettrica,447,267,8.68
+487,Toyota,Camry,2010,22292,Rosso,114954,4,Automatico,Elettrica,52,218,6.03
+488,Nissan,Focus,2001,13516,Bianco,133075,3,Manuale,Benzina,796,270,3.16
+489,Nissan,Focus,2006,37808,Argento,81466,2,Automatico,Ibrida,824,303,5.09
+490,Toyota,C-Class,2017,13021,Blu,64716,2,Automatico,Ibrida,1342,189,6.37
+491,Mercedes-Benz,Camry,2010,8500,Blu,135032,1,Automatico,Benzina,822,216,4.79
+492,Toyota,Altima,2018,10239,Rosso,2439,0,Automatico,Diesel,700,235,2.79
+493,Mercedes-Benz,Focus,2020,33502,Nero,125344,2,Automatico,Ibrida,957,311,7.57
+494,Nissan,Jetta,2005,40740,Nero,5851,2,Manuale,Ibrida,353,241,5.35
+495,Honda,Jetta,2010,10825,Rosso,35782,2,Automatico,Benzina,1381,210,6.37
+496,Honda,3 Series,2013,21296,Blu,118400,3,Automatico,Diesel,245,268,2.63
+497,BMW,Altima,2000,32500,Blu,120594,2,Manuale,Ibrida,502,261,4.09
+498,Mercedes-Benz,Altima,2021,35268,Blu,91878,4,Automatico,Ibrida,1404,205,2.6
+499,BMW,C-Class,2001,9041,Nero,55668,0,Automatico,Elettrica,458,180,4.63
+500,Honda,Altima,2022,29153,Blu,58170,3,Manuale,Ibrida,85,183,8.46
+501,Mercedes-Benz,Focus,2018,38334,Bianco,79630,5,Automatico,Benzina,557,186,4.36
+502,Mercedes-Benz,Malibu,2009,11854,Rosso,101914,2,Automatico,Diesel,194,246,5.99
+503,Audi,3 Series,2002,18316,Blu,87617,0,Automatico,Ibrida,681,300,7.65
+504,Volkswagen,Civic,2017,21064,Nero,123609,2,Automatico,Ibrida,804,233,4.29
+505,Audi,Camry,2006,21995,Bianco,49452,0,Manuale,Benzina,863,238,8.88
+506,Ford,RS6,2022,46060,Bianco,113973,1,Manuale,Diesel,1300,291,8.75
+507,Volkswagen,Altima,2023,40952,Argento,76440,3,Manuale,Ibrida,696,255,9.64
+508,Toyota,RS6,2018,32840,Argento,142315,2,Automatico,Elettrica,1024,219,8.18
+509,Volkswagen,RS6,2011,28521,Bianco,90576,5,Automatico,Benzina,76,320,3.08
+510,Volkswagen,Camry,2014,27080,Rosso,73411,0,Manuale,Elettrica,546,261,4.31
+511,Audi,Malibu,2012,39463,Argento,7655,3,Manuale,Diesel,628,234,3.3
+512,Toyota,RS6,2020,47731,Argento,57231,2,Manuale,Diesel,519,228,3.01
+513,Honda,Altima,2003,28439,Argento,142863,5,Automatico,Benzina,1245,261,9.65
+514,Mercedes-Benz,Civic,2010,47795,Nero,46395,0,Automatico,Benzina,391,315,4.42
+515,Ford,Camry,2014,41172,Bianco,84877,4,Manuale,Diesel,470,312,5.86
+516,BMW,3 Series,2017,30529,Bianco,17803,2,Automatico,Diesel,825,239,5.03
+517,Nissan,Focus,2003,35953,Nero,68802,5,Automatico,Ibrida,1176,285,4.77
+518,Ford,RS6,2010,13687,Blu,14771,5,Manuale,Benzina,804,250,6.7
+519,Nissan,Civic,2015,41060,Bianco,134507,4,Manuale,Elettrica,871,195,6.2
+520,BMW,Civic,2011,45741,Blu,89315,3,Automatico,Ibrida,1414,308,8.93
+521,BMW,RS6,2007,14473,Rosso,37441,5,Automatico,Diesel,575,247,5.32
+522,Nissan,Civic,2013,41274,Argento,117706,2,Manuale,Diesel,1043,312,9.48
+523,Toyota,Altima,2013,39608,Bianco,147696,2,Automatico,Ibrida,1176,281,8.89
+524,Honda,Jetta,2017,38345,Bianco,76024,0,Automatico,Benzina,259,258,8.02
+525,Volkswagen,C-Class,2017,14988,Argento,23682,2,Automatico,Elettrica,1431,277,2.63
+526,Ford,Civic,2015,48799,Rosso,59375,1,Automatico,Benzina,1107,304,8.13
+527,BMW,Civic,2021,10645,Argento,60051,0,Manuale,Ibrida,1373,307,9.81
+528,Toyota,C-Class,2012,17609,Rosso,70420,5,Manuale,Benzina,945,185,6.88
+529,Volkswagen,3 Series,2015,32369,Bianco,95340,5,Automatico,Ibrida,542,193,9.85
+530,Ford,C-Class,2008,49714,Blu,103303,4,Manuale,Benzina,1105,251,7.74
+531,Toyota,Malibu,2008,37677,Rosso,59748,0,Manuale,Elettrica,748,275,4.13
+532,Toyota,Malibu,2014,15194,Blu,9460,4,Manuale,Elettrica,301,276,6.38
+533,Toyota,Altima,2020,38894,Argento,131933,0,Manuale,Benzina,612,311,8.43
+534,Nissan,Focus,2005,26952,Blu,145205,0,Automatico,Diesel,215,300,6.82
+535,Nissan,Camry,2020,22818,Blu,40790,4,Manuale,Diesel,1029,282,8.83
+536,Ford,Civic,2012,11514,Bianco,137587,5,Manuale,Ibrida,1477,180,5.02
+537,Toyota,Altima,2022,12275,Nero,72635,3,Manuale,Ibrida,1142,277,8.78
+538,Volkswagen,Malibu,2022,8906,Nero,25073,5,Automatico,Diesel,287,216,8.64
+539,Honda,Altima,2001,23188,Blu,47524,5,Manuale,Elettrica,1208,288,8.67
+540,Mercedes-Benz,Camry,2008,28070,Blu,34,4,Manuale,Benzina,732,302,3.72
+541,Ford,C-Class,2007,16473,Blu,137893,5,Manuale,Elettrica,1339,306,2.96
+542,Ford,Civic,2022,8509,Rosso,77767,0,Manuale,Benzina,782,260,3.54
+543,Volkswagen,Focus,2014,42751,Blu,21091,0,Manuale,Elettrica,106,248,7.86
+544,Honda,Altima,2011,38380,Argento,90021,4,Automatico,Elettrica,983,180,9.23
+545,Honda,Malibu,2015,29854,Bianco,49942,1,Automatico,Elettrica,94,221,3.94
+546,BMW,Jetta,2007,47671,Blu,94286,3,Manuale,Ibrida,1176,264,3.82
+547,Toyota,C-Class,2004,15238,Bianco,87775,1,Manuale,Diesel,1401,211,3.53
+548,Toyota,Malibu,2023,29217,Bianco,7678,4,Manuale,Benzina,1306,282,9.35
+549,Ford,3 Series,2000,44878,Rosso,84645,4,Manuale,Elettrica,1082,269,5.87
+550,Nissan,Altima,2013,14274,Blu,88243,1,Manuale,Benzina,1369,290,9.61
+551,Nissan,Focus,2001,40248,Nero,51039,2,Manuale,Diesel,132,202,3.35
+552,Toyota,Jetta,2020,39318,Nero,37671,4,Automatico,Elettrica,1463,307,4.14
+553,Volkswagen,3 Series,2022,42926,Nero,17488,3,Automatico,Diesel,455,299,3.46
+554,BMW,3 Series,2000,38782,Rosso,17354,0,Manuale,Benzina,1195,241,7.37
+555,Honda,RS6,2014,24119,Argento,100839,3,Automatico,Elettrica,1305,285,3.78
+556,Mercedes-Benz,Altima,2000,27595,Nero,48183,4,Manuale,Ibrida,423,303,8.45
+557,Audi,Malibu,2001,11598,Bianco,3564,2,Manuale,Ibrida,459,246,6.02
+558,Ford,Jetta,2016,26324,Blu,105325,5,Manuale,Elettrica,1206,198,4.97
+559,Toyota,Jetta,2006,25237,Bianco,62101,1,Manuale,Elettrica,329,198,9.24
+560,Audi,3 Series,2006,46592,Argento,105540,1,Manuale,Elettrica,1151,256,6.18
+561,Toyota,3 Series,2020,18299,Nero,23788,2,Manuale,Benzina,1224,240,3.72
+562,BMW,Jetta,2002,10224,Rosso,52307,2,Manuale,Diesel,956,205,4.02
+563,Volkswagen,3 Series,2016,15601,Rosso,123742,0,Manuale,Elettrica,508,219,6.76
+564,Nissan,RS6,2010,44997,Rosso,107816,0,Automatico,Ibrida,1266,275,8.22
+565,BMW,Camry,2001,44138,Blu,37222,5,Automatico,Diesel,1025,201,7.17
+566,Audi,Focus,2021,27052,Bianco,9919,2,Manuale,Ibrida,543,200,7.44
+567,Mercedes-Benz,Civic,2022,11152,Blu,109956,2,Automatico,Diesel,435,263,7.88
+568,Ford,RS6,2004,48591,Argento,87501,1,Automatico,Ibrida,1228,249,6.85
+569,Nissan,3 Series,2003,15473,Nero,13198,1,Manuale,Diesel,1147,201,3.51
+570,Honda,Jetta,2012,8802,Blu,92222,5,Automatico,Benzina,588,262,4.37
+571,Nissan,Jetta,2014,41785,Nero,35536,1,Automatico,Benzina,82,186,4.61
+572,BMW,Focus,2017,17691,Argento,142998,3,Manuale,Benzina,665,277,4.65
+573,Honda,Malibu,2007,45062,Bianco,68998,4,Manuale,Ibrida,1079,300,4.66
+574,Honda,Focus,2003,20596,Bianco,137083,1,Manuale,Benzina,460,236,8.07
+575,Audi,Jetta,2006,9347,Bianco,30633,1,Automatico,Elettrica,595,236,8.27
+576,Mercedes-Benz,Camry,2023,17593,Blu,45627,3,Automatico,Elettrica,1193,305,9.84
+577,Nissan,RS6,2012,15988,Argento,69520,0,Manuale,Ibrida,671,315,9.41
+578,Mercedes-Benz,Malibu,2017,13298,Argento,141154,1,Automatico,Benzina,245,302,4.9
+579,Nissan,Malibu,2022,11574,Bianco,87500,5,Automatico,Ibrida,882,319,6.3
+580,Nissan,C-Class,2015,9787,Blu,73330,3,Manuale,Diesel,1013,319,9.39
+581,Toyota,Focus,2015,21848,Nero,42544,4,Manuale,Ibrida,409,192,6.9
+582,Honda,Camry,2009,37411,Rosso,45089,3,Manuale,Diesel,544,227,9.38
+583,Honda,RS6,2022,9373,Blu,1082,3,Automatico,Diesel,527,205,8.75
+584,Volkswagen,Jetta,2020,36664,Argento,8723,1,Manuale,Ibrida,248,238,6.79
+585,Audi,Malibu,2009,19399,Argento,80348,0,Manuale,Diesel,1422,180,6.7
+586,Honda,RS6,2000,41752,Bianco,101635,1,Automatico,Benzina,400,244,4.97
+587,Ford,Malibu,2000,38062,Nero,16646,3,Manuale,Elettrica,1348,271,6.15
+588,Mercedes-Benz,C-Class,2008,36480,Bianco,70297,0,Automatico,Benzina,674,274,7.5
+589,BMW,RS6,2003,31041,Bianco,41671,2,Automatico,Diesel,1021,243,6.37
+590,Honda,RS6,2000,15236,Rosso,43459,4,Automatico,Ibrida,1287,227,5.82
+591,Audi,Civic,2004,37295,Nero,88192,0,Manuale,Elettrica,611,274,6.91
+592,Volkswagen,3 Series,2013,13112,Argento,72084,2,Manuale,Elettrica,1206,266,3.41
+593,Toyota,3 Series,2019,14738,Bianco,67889,5,Automatico,Ibrida,1477,208,4.76
+594,Toyota,C-Class,2021,28475,Bianco,128821,0,Automatico,Benzina,89,226,7.6
+595,Ford,Civic,2018,33726,Blu,137422,1,Automatico,Elettrica,853,260,5.19
+596,Mercedes-Benz,Focus,2006,32949,Nero,148551,3,Automatico,Elettrica,147,272,8.42
+597,Nissan,Focus,2020,49136,Bianco,46832,4,Manuale,Ibrida,1324,295,5.7
+598,Ford,Altima,2007,34817,Argento,136469,0,Manuale,Ibrida,547,261,9.56
+599,Ford,Focus,2020,38328,Rosso,417,3,Automatico,Benzina,1358,193,3.73
+600,Mercedes-Benz,3 Series,2015,41534,Argento,127052,1,Automatico,Benzina,455,225,2.82
+601,Honda,3 Series,2018,18055,Blu,68364,3,Automatico,Elettrica,1430,216,4.23
+602,BMW,RS6,2010,42124,Blu,25701,1,Manuale,Diesel,688,293,3.59
+603,Honda,3 Series,2017,28925,Nero,114638,4,Automatico,Diesel,237,239,6.85
+604,Mercedes-Benz,Jetta,2008,34342,Rosso,83753,0,Automatico,Benzina,1306,249,4.84
+605,Volkswagen,Focus,2019,41627,Blu,113293,4,Manuale,Benzina,1188,297,9.93
+606,Nissan,Camry,2005,24657,Blu,122211,5,Manuale,Elettrica,890,233,3.06
+607,Honda,Malibu,2005,8652,Nero,71842,3,Manuale,Ibrida,291,232,3.87
+608,Ford,3 Series,2001,25908,Blu,67606,3,Automatico,Elettrica,663,186,9.15
+609,Toyota,Malibu,2021,40204,Nero,13770,5,Automatico,Ibrida,1023,299,8.64
+610,Ford,C-Class,2010,27082,Blu,93067,4,Manuale,Elettrica,767,287,7.66
+611,Nissan,Camry,2011,32236,Bianco,114130,1,Automatico,Benzina,321,186,3.69
+612,Audi,Civic,2001,46147,Argento,36420,5,Automatico,Diesel,483,306,6.81
+613,Audi,3 Series,2010,12352,Nero,49216,2,Manuale,Benzina,754,204,7.97
+614,Toyota,RS6,2013,36162,Rosso,148012,3,Automatico,Elettrica,154,215,3.48
+615,Mercedes-Benz,Malibu,2009,11677,Argento,6140,1,Automatico,Elettrica,233,317,5.25
+616,Toyota,Civic,2014,45595,Bianco,138194,1,Automatico,Ibrida,189,246,5.43
+617,BMW,RS6,2023,16750,Nero,143533,2,Manuale,Ibrida,703,195,4.39
+618,Mercedes-Benz,Malibu,2002,33167,Nero,30085,5,Manuale,Elettrica,862,286,5.08
+619,Volkswagen,RS6,2013,48241,Blu,23054,3,Automatico,Benzina,1212,199,8.68
+620,Honda,RS6,2012,28456,Bianco,56616,5,Automatico,Elettrica,1256,282,7.69
+621,Volkswagen,RS6,2018,42157,Nero,86151,0,Automatico,Elettrica,787,208,3.41
+622,BMW,C-Class,2001,11958,Blu,72315,4,Manuale,Ibrida,312,201,8.08
+623,BMW,Camry,2000,39216,Nero,104844,1,Manuale,Diesel,960,304,6.57
+624,Nissan,Jetta,2000,25029,Bianco,15434,3,Automatico,Ibrida,195,242,3.08
+625,Mercedes-Benz,C-Class,2003,9343,Rosso,76238,0,Manuale,Ibrida,956,226,6.24
+626,Toyota,Camry,2005,26256,Blu,16612,3,Manuale,Ibrida,260,254,9.94
+627,Audi,RS6,2012,26742,Bianco,90552,1,Manuale,Ibrida,196,277,5.18
+628,Nissan,C-Class,2002,31752,Bianco,133190,2,Automatico,Elettrica,179,204,6.41
+629,Volkswagen,Malibu,2019,30617,Blu,82414,3,Manuale,Benzina,1407,239,9.02
+630,BMW,3 Series,2009,44887,Nero,107797,4,Manuale,Benzina,395,183,8.63
+631,Volkswagen,Malibu,2013,11580,Rosso,65430,3,Automatico,Benzina,389,312,6.95
+632,BMW,C-Class,2017,47145,Argento,95131,5,Manuale,Diesel,880,296,5.33
+633,Volkswagen,Civic,2013,19802,Blu,112345,0,Automatico,Benzina,116,299,6.69
+634,BMW,Civic,2016,42526,Bianco,88323,0,Automatico,Elettrica,148,181,7.96
+635,Ford,Camry,2008,27879,Argento,99128,1,Automatico,Diesel,1075,220,5.22
+636,Volkswagen,Civic,2013,31012,Bianco,95199,4,Manuale,Elettrica,167,276,7.57
+637,Ford,Civic,2017,17104,Argento,28134,3,Automatico,Elettrica,1226,268,5.32
+638,Nissan,Jetta,2018,25117,Blu,48594,2,Automatico,Benzina,293,260,7.01
+639,Audi,Camry,2012,48459,Bianco,137334,4,Manuale,Ibrida,1432,291,5.27
+640,Audi,RS6,2006,28586,Argento,112788,0,Automatico,Ibrida,1219,185,7.13
+641,Ford,Civic,2001,13190,Bianco,23716,2,Automatico,Benzina,1220,226,9.31
+642,Honda,Malibu,2008,43638,Blu,50429,5,Manuale,Ibrida,1416,254,4.28
+643,Ford,C-Class,2005,30399,Rosso,58999,3,Automatico,Ibrida,946,306,5.59
+644,Mercedes-Benz,Camry,2023,32635,Rosso,70223,0,Manuale,Diesel,1411,183,4.61
+645,Volkswagen,RS6,2001,17019,Nero,123827,5,Manuale,Benzina,146,268,9.14
+646,Volkswagen,Civic,2006,30528,Bianco,141152,5,Manuale,Diesel,1201,315,8.01
+647,Mercedes-Benz,Focus,2009,14898,Blu,91890,3,Automatico,Diesel,414,271,3.89
+648,Nissan,C-Class,2000,46974,Argento,64677,3,Manuale,Elettrica,658,196,7.16
+649,Mercedes-Benz,3 Series,2000,41419,Blu,109216,0,Manuale,Diesel,181,258,3.54
+650,Mercedes-Benz,Focus,2005,33934,Rosso,28066,5,Manuale,Elettrica,494,235,2.79
+651,Nissan,Jetta,2004,12734,Bianco,57613,4,Manuale,Benzina,1220,314,8.89
+652,Ford,3 Series,2014,20231,Blu,122550,0,Manuale,Diesel,952,311,3.23
+653,Nissan,Civic,2023,31081,Rosso,74807,1,Automatico,Diesel,177,303,8.96
+654,Ford,Jetta,2013,15965,Blu,91915,0,Manuale,Ibrida,686,292,10.0
+655,Volkswagen,Altima,2011,27490,Rosso,93858,3,Manuale,Diesel,144,268,5.88
+656,Audi,Jetta,2019,27950,Blu,111785,2,Manuale,Ibrida,664,271,6.96
+657,Toyota,Civic,2013,19477,Blu,35757,4,Manuale,Elettrica,671,302,2.75
+658,Honda,3 Series,2022,49547,Argento,98103,4,Automatico,Benzina,1070,308,6.99
+659,Ford,3 Series,2004,43548,Bianco,88353,3,Manuale,Diesel,857,306,6.53
+660,Honda,Focus,2014,12854,Nero,140671,0,Manuale,Ibrida,576,182,2.63
+661,Honda,Camry,2000,21552,Argento,89289,0,Automatico,Elettrica,1148,192,6.51
+662,Volkswagen,Civic,2018,49078,Rosso,38453,0,Automatico,Benzina,1127,218,7.54
+663,Audi,Jetta,2002,47348,Bianco,16139,4,Manuale,Benzina,287,228,9.09
+664,Nissan,3 Series,2000,26390,Blu,22972,1,Automatico,Ibrida,504,315,7.94
+665,Mercedes-Benz,3 Series,2008,20220,Bianco,88845,4,Manuale,Elettrica,1352,314,3.81
+666,Nissan,Civic,2002,22516,Argento,47753,5,Manuale,Benzina,1107,194,8.26
+667,BMW,Malibu,2013,44364,Rosso,112912,3,Automatico,Benzina,1202,308,5.96
+668,Mercedes-Benz,Malibu,2020,48673,Nero,8290,4,Automatico,Elettrica,1275,240,4.26
+669,Audi,C-Class,2013,9921,Nero,61753,3,Manuale,Ibrida,448,211,9.31
+670,Honda,Malibu,2020,43257,Bianco,67431,1,Manuale,Diesel,774,241,9.38
+671,Nissan,3 Series,2002,9519,Nero,2646,3,Manuale,Elettrica,278,266,8.2
+672,Nissan,Civic,2010,27288,Bianco,129033,1,Automatico,Ibrida,121,291,9.73
+673,Audi,Malibu,2003,47598,Rosso,13658,5,Automatico,Benzina,1229,283,7.6
+674,Mercedes-Benz,Camry,2004,33541,Rosso,108119,5,Automatico,Diesel,442,236,5.34
+675,BMW,C-Class,2007,8758,Blu,70797,4,Manuale,Diesel,583,207,6.61
+676,Toyota,Jetta,2001,14324,Rosso,123885,2,Manuale,Benzina,1124,287,4.0
+677,Honda,Malibu,2015,49731,Rosso,20435,2,Automatico,Diesel,320,199,9.51
+678,Toyota,3 Series,2013,15077,Bianco,117583,1,Automatico,Diesel,1045,304,4.13
+679,Audi,Civic,2023,34424,Nero,74630,2,Automatico,Diesel,94,302,3.93
+680,Mercedes-Benz,Altima,2009,12955,Rosso,21430,5,Automatico,Elettrica,273,228,4.71
+681,Audi,Civic,2017,17010,Blu,89963,1,Automatico,Elettrica,567,198,4.06
+682,Ford,Civic,2002,42846,Blu,39894,0,Manuale,Elettrica,357,201,6.59
+683,Honda,Focus,2020,32669,Argento,13039,5,Manuale,Ibrida,1099,307,7.8
+684,Volkswagen,Civic,2022,17394,Nero,99938,2,Manuale,Benzina,1283,252,3.32
+685,Volkswagen,Civic,2009,15434,Argento,112307,0,Manuale,Ibrida,417,247,4.74
+686,Toyota,Civic,2021,10251,Rosso,90286,2,Automatico,Ibrida,1303,206,9.2
+687,Volkswagen,3 Series,2019,10805,Nero,109991,4,Manuale,Ibrida,1019,287,6.77
+688,Audi,RS6,2006,43171,Argento,23053,5,Automatico,Benzina,1459,235,6.47
+689,Volkswagen,Camry,2005,19344,Argento,19698,2,Manuale,Benzina,650,285,6.81
+690,Ford,Malibu,2014,30813,Rosso,110007,4,Manuale,Benzina,1488,310,7.54
+691,Nissan,Civic,2009,39834,Bianco,101565,5,Automatico,Ibrida,441,201,7.12
+692,Audi,Malibu,2002,46185,Nero,116560,1,Automatico,Benzina,1376,206,5.2
+693,Audi,Focus,2001,29895,Argento,110693,3,Automatico,Elettrica,1406,187,5.0
+694,BMW,C-Class,2006,29404,Argento,115708,0,Automatico,Elettrica,716,195,8.03
+695,Honda,Focus,2002,35372,Rosso,79472,4,Manuale,Diesel,795,264,5.13
+696,Honda,Malibu,2003,39836,Nero,125068,1,Manuale,Diesel,1500,235,9.41
+697,Volkswagen,Civic,2010,10256,Rosso,62555,5,Automatico,Ibrida,290,216,7.36
+698,Honda,3 Series,2002,20596,Rosso,17516,1,Automatico,Ibrida,415,286,6.96
+699,Nissan,Jetta,2008,22037,Bianco,114147,1,Manuale,Ibrida,363,288,8.94
+700,Audi,3 Series,2015,27623,Nero,99050,0,Manuale,Ibrida,520,232,7.89
+701,Toyota,Civic,2014,12975,Rosso,140127,2,Manuale,Ibrida,861,222,5.83
+702,Audi,C-Class,2022,9129,Rosso,4913,0,Manuale,Ibrida,917,275,8.51
+703,Mercedes-Benz,Focus,2003,12288,Nero,117333,4,Manuale,Benzina,1160,274,4.85
+704,Honda,Civic,2014,43257,Bianco,85865,5,Automatico,Benzina,208,320,9.38
+705,Nissan,RS6,2015,29622,Nero,147265,3,Manuale,Diesel,1349,209,5.4
+706,Mercedes-Benz,Altima,2022,37399,Bianco,48578,5,Automatico,Elettrica,596,318,2.97
+707,Honda,Civic,2000,11572,Bianco,82338,4,Automatico,Diesel,993,279,4.59
+708,Audi,C-Class,2019,20141,Nero,45169,5,Automatico,Elettrica,166,261,8.91
+709,Volkswagen,Camry,2009,35907,Blu,144177,0,Automatico,Benzina,708,314,3.32
+710,Mercedes-Benz,Civic,2022,8268,Rosso,39032,4,Manuale,Elettrica,1240,224,5.68
+711,Nissan,Civic,2012,37763,Rosso,86120,0,Automatico,Ibrida,864,266,7.95
+712,BMW,Focus,2014,12070,Nero,77507,4,Manuale,Benzina,1003,284,3.19
+713,Ford,Civic,2002,15250,Rosso,70865,1,Automatico,Ibrida,176,258,4.22
+714,Ford,Altima,2000,17411,Nero,71355,3,Automatico,Elettrica,460,192,4.01
+715,BMW,Civic,2014,47564,Blu,116697,2,Manuale,Diesel,109,207,4.68
+716,Toyota,RS6,2023,49224,Blu,73796,2,Manuale,Ibrida,1003,263,9.42
+717,Ford,Jetta,2000,10019,Blu,7741,1,Manuale,Benzina,1165,314,7.57
+718,Audi,RS6,2014,32870,Rosso,30219,0,Automatico,Ibrida,1500,242,7.64
+719,Honda,RS6,2008,41905,Blu,69248,3,Automatico,Benzina,110,242,6.68
+720,Nissan,Focus,2016,48144,Argento,111946,1,Manuale,Elettrica,206,201,4.76
+721,Toyota,Malibu,2016,36769,Bianco,128491,4,Automatico,Ibrida,481,206,7.86
+722,Toyota,RS6,2020,37709,Argento,71639,0,Automatico,Benzina,580,266,8.1
+723,Honda,Focus,2007,37074,Argento,138774,2,Manuale,Diesel,268,214,4.35
+724,Ford,3 Series,2005,47551,Bianco,78275,3,Manuale,Diesel,600,240,4.85
+725,Mercedes-Benz,Jetta,2007,32538,Nero,97518,1,Automatico,Ibrida,418,308,3.75
+726,Nissan,C-Class,2016,49260,Blu,81765,1,Automatico,Diesel,1100,255,8.63
+727,Toyota,Altima,2004,42339,Nero,148953,3,Automatico,Benzina,1210,191,4.67
+728,Nissan,Civic,2021,15154,Bianco,147371,3,Manuale,Ibrida,850,301,9.33
+729,Audi,Civic,2019,31560,Blu,63667,0,Automatico,Ibrida,1083,276,5.43
+730,Audi,Malibu,2004,48479,Rosso,3321,2,Manuale,Ibrida,1358,246,4.48
+731,Mercedes-Benz,Altima,2003,9276,Nero,120915,0,Manuale,Ibrida,213,199,7.34
+732,Toyota,3 Series,2012,35725,Blu,17291,4,Automatico,Benzina,1139,285,9.6
+733,Nissan,Civic,2020,37901,Bianco,50557,4,Manuale,Elettrica,837,210,7.45
+734,Toyota,C-Class,2018,28593,Bianco,142324,2,Manuale,Elettrica,1024,247,6.66
+735,Volkswagen,RS6,2011,36376,Argento,50406,0,Manuale,Diesel,248,292,8.93
+736,BMW,Civic,2008,17197,Bianco,8007,5,Manuale,Diesel,1158,290,5.4
+737,Toyota,C-Class,2001,21471,Rosso,87110,0,Manuale,Diesel,1375,202,9.49
+738,Ford,Malibu,2018,45086,Rosso,88469,5,Manuale,Benzina,1483,249,10.0
+739,Nissan,C-Class,2018,28731,Argento,83962,1,Automatico,Ibrida,632,270,4.61
+740,Ford,3 Series,2005,40332,Bianco,93835,1,Automatico,Benzina,68,238,6.39
+741,BMW,Civic,2018,22172,Nero,48233,5,Automatico,Elettrica,82,232,6.07
+742,Nissan,RS6,2009,9989,Nero,46660,0,Automatico,Ibrida,1315,181,4.02
+743,Honda,Civic,2010,37960,Blu,142571,5,Manuale,Ibrida,135,262,4.02
+744,Toyota,Malibu,2021,49421,Bianco,100627,2,Manuale,Elettrica,1113,244,6.95
+745,Mercedes-Benz,3 Series,2001,34206,Argento,137903,4,Manuale,Ibrida,580,240,9.08
+746,Ford,3 Series,2013,16862,Bianco,135531,5,Automatico,Diesel,420,197,8.18
+747,Audi,Camry,2008,44555,Argento,51009,1,Manuale,Diesel,422,225,8.25
+748,Toyota,3 Series,2006,36847,Rosso,127073,2,Manuale,Benzina,1302,204,2.8
+749,Nissan,Malibu,2002,10359,Rosso,86297,4,Manuale,Diesel,800,304,5.0
+750,BMW,C-Class,2019,21426,Blu,28600,1,Manuale,Ibrida,926,294,9.49
+751,BMW,RS6,2011,43307,Bianco,103364,2,Manuale,Elettrica,822,268,9.38
+752,Toyota,Focus,2013,18790,Bianco,85820,1,Manuale,Diesel,108,256,9.62
+753,Honda,Altima,2013,20448,Blu,56500,1,Manuale,Benzina,1053,189,6.8
+754,BMW,Jetta,2018,33650,Rosso,141175,1,Automatico,Diesel,1289,313,7.64
+755,Honda,Jetta,2016,45261,Blu,38051,4,Automatico,Diesel,484,191,5.4
+756,Toyota,Camry,2019,30383,Bianco,27177,1,Manuale,Elettrica,780,218,2.82
+757,Nissan,Camry,2017,25421,Bianco,86996,1,Manuale,Ibrida,1030,261,3.06
+758,BMW,Jetta,2016,40008,Argento,66822,2,Automatico,Benzina,1250,238,2.68
+759,Toyota,Malibu,2002,39111,Rosso,120325,1,Manuale,Benzina,661,301,5.0
+760,BMW,RS6,2013,31505,Rosso,50111,5,Automatico,Diesel,849,298,3.11
+761,Nissan,Altima,2004,23601,Rosso,101950,0,Manuale,Benzina,233,197,3.49
+762,Volkswagen,3 Series,2021,21663,Rosso,28945,1,Automatico,Ibrida,180,225,4.89
+763,BMW,Malibu,2004,40990,Nero,19731,4,Manuale,Elettrica,1321,182,2.75
+764,BMW,3 Series,2010,43366,Bianco,80163,3,Automatico,Diesel,1172,240,8.73
+765,Mercedes-Benz,3 Series,2011,48106,Argento,108818,3,Manuale,Elettrica,823,231,3.9
+766,BMW,Focus,2014,32229,Nero,16266,1,Manuale,Benzina,1444,302,3.39
+767,Honda,RS6,2001,32373,Rosso,27312,2,Manuale,Elettrica,402,232,3.84
+768,Mercedes-Benz,Jetta,2013,49640,Nero,119060,2,Automatico,Benzina,1030,222,6.21
+769,Ford,Camry,2014,47230,Blu,61835,5,Automatico,Elettrica,761,187,3.45
+770,BMW,3 Series,2015,36314,Bianco,35196,1,Manuale,Benzina,415,214,5.98
+771,Toyota,C-Class,2008,29424,Rosso,42689,1,Manuale,Elettrica,300,238,9.93
+772,Volkswagen,Civic,2016,41004,Bianco,17657,0,Manuale,Elettrica,1347,287,8.4
+773,Volkswagen,RS6,2017,12979,Rosso,136210,3,Manuale,Ibrida,836,274,7.99
+774,Audi,C-Class,2016,16184,Blu,73358,2,Automatico,Elettrica,1146,295,2.58
+775,Volkswagen,Malibu,2021,28903,Rosso,133713,2,Manuale,Ibrida,1129,306,9.9
+776,Honda,Camry,2012,18605,Rosso,100367,5,Manuale,Benzina,651,184,6.82
+777,BMW,Jetta,2021,9481,Bianco,47155,2,Automatico,Ibrida,625,236,8.56
+778,Volkswagen,Altima,2019,26673,Nero,37186,0,Manuale,Benzina,501,272,8.01
+779,Mercedes-Benz,Malibu,2006,34106,Rosso,95811,5,Automatico,Benzina,201,247,6.29
+780,Honda,Altima,2020,15313,Argento,136385,5,Automatico,Ibrida,353,309,6.37
+781,Toyota,Focus,2005,48478,Argento,74972,1,Manuale,Benzina,549,186,4.26
+782,Mercedes-Benz,C-Class,2021,23426,Rosso,92031,4,Manuale,Ibrida,700,301,6.37
+783,Volkswagen,Altima,2017,9999,Blu,144867,0,Manuale,Ibrida,255,227,3.8
+784,Mercedes-Benz,Altima,2001,35157,Rosso,31938,3,Manuale,Ibrida,1419,296,5.88
+785,Volkswagen,RS6,2003,34200,Blu,38233,2,Manuale,Ibrida,435,227,4.48
+786,Audi,Civic,2015,31183,Nero,75650,1,Manuale,Benzina,1497,283,8.56
+787,Volkswagen,Jetta,2000,44203,Bianco,115125,2,Automatico,Benzina,267,315,5.5
+788,Toyota,Jetta,2017,48373,Blu,33257,5,Automatico,Benzina,1374,284,7.19
+789,Nissan,Focus,2015,15127,Rosso,24910,1,Manuale,Benzina,1369,318,5.66
+790,Toyota,C-Class,2000,35579,Nero,27562,0,Manuale,Diesel,368,245,6.61
+791,Ford,Focus,2011,24126,Blu,149149,1,Automatico,Ibrida,403,225,7.62
+792,Toyota,3 Series,2021,49182,Blu,105977,5,Automatico,Ibrida,903,195,9.81
+793,Mercedes-Benz,Civic,2011,36996,Nero,135518,4,Manuale,Benzina,702,228,7.29
+794,BMW,3 Series,2016,24363,Argento,125081,3,Manuale,Diesel,361,218,5.7
+795,Toyota,Focus,2011,12559,Argento,54145,2,Automatico,Diesel,203,308,3.08
+796,Mercedes-Benz,Focus,2022,41525,Rosso,128055,3,Manuale,Elettrica,1459,314,4.01
+797,Mercedes-Benz,RS6,2018,37798,Rosso,148353,3,Automatico,Ibrida,1314,233,9.02
+798,Mercedes-Benz,RS6,2007,48796,Argento,142699,0,Manuale,Diesel,457,291,4.0
+799,Honda,Altima,2022,22091,Rosso,15414,5,Automatico,Benzina,133,316,5.27
+800,Mercedes-Benz,Focus,2004,21699,Rosso,38219,3,Manuale,Diesel,227,301,5.85
+801,BMW,Jetta,2012,10420,Blu,19446,3,Manuale,Ibrida,107,281,4.28
+802,Mercedes-Benz,3 Series,2019,29230,Nero,3315,1,Automatico,Elettrica,922,297,6.88
+803,Volkswagen,C-Class,2018,16889,Rosso,105393,0,Manuale,Elettrica,101,258,4.64
+804,BMW,Camry,2006,38161,Blu,40075,2,Manuale,Elettrica,845,256,8.31
+805,Nissan,Camry,2001,23160,Nero,118869,0,Manuale,Elettrica,486,264,7.22
+806,Volkswagen,RS6,2023,23441,Bianco,129146,2,Automatico,Ibrida,108,253,8.66
+807,Volkswagen,Altima,2000,45473,Blu,44920,3,Manuale,Elettrica,1484,208,9.5
+808,Toyota,Altima,2003,39891,Argento,75922,3,Manuale,Ibrida,766,294,9.53
+809,Ford,Jetta,2006,49999,Bianco,20384,4,Automatico,Elettrica,1384,221,6.36
+810,Ford,C-Class,2015,44286,Argento,134602,0,Manuale,Ibrida,1485,274,2.98
+811,Audi,Focus,2017,22678,Bianco,65862,3,Automatico,Ibrida,1165,262,3.09
+812,Nissan,Malibu,2004,8558,Blu,7212,1,Manuale,Elettrica,1293,279,7.69
+813,Audi,RS6,2011,10943,Blu,56061,2,Manuale,Diesel,879,184,9.62
+814,Nissan,Camry,2023,35314,Rosso,133630,4,Automatico,Elettrica,1044,217,7.79
+815,Mercedes-Benz,Altima,2000,48891,Bianco,10703,4,Manuale,Ibrida,143,295,8.95
+816,BMW,Focus,2001,21721,Blu,82449,2,Manuale,Elettrica,761,248,6.61
+817,Volkswagen,Civic,2020,13504,Argento,131012,5,Automatico,Elettrica,440,215,8.75
+818,Honda,Malibu,2019,17092,Nero,8880,3,Automatico,Diesel,1495,312,8.42
+819,Nissan,Malibu,2003,28119,Rosso,110880,2,Manuale,Benzina,757,269,9.1
+820,Mercedes-Benz,Altima,2015,25653,Blu,84426,2,Manuale,Elettrica,162,193,2.82
+821,Audi,Altima,2007,49482,Rosso,1214,0,Manuale,Benzina,1057,263,6.28
+822,Ford,Focus,2014,16420,Rosso,47601,4,Automatico,Benzina,299,188,4.57
+823,Nissan,Focus,2012,47633,Rosso,2564,0,Automatico,Diesel,797,315,8.67
+824,Volkswagen,Altima,2003,13978,Bianco,82958,4,Automatico,Benzina,372,240,7.94
+825,Nissan,3 Series,2020,49689,Rosso,4673,3,Automatico,Diesel,722,196,3.71
+826,Audi,Altima,2023,42950,Blu,137806,4,Automatico,Diesel,804,291,5.23
+827,Audi,3 Series,2005,49105,Rosso,134636,3,Automatico,Diesel,1053,235,3.58
+828,Mercedes-Benz,Camry,2012,8649,Argento,88994,2,Manuale,Ibrida,312,224,3.75
+829,Mercedes-Benz,Altima,2015,9363,Blu,91834,0,Manuale,Ibrida,1334,257,5.22
+830,BMW,RS6,2023,23720,Rosso,42774,4,Automatico,Ibrida,62,283,6.71
+831,Ford,3 Series,2019,29158,Nero,15444,2,Automatico,Ibrida,1488,231,6.43
+832,Honda,Jetta,2005,17696,Rosso,132852,0,Manuale,Diesel,362,317,8.05
+833,Toyota,Altima,2004,14110,Argento,47371,0,Automatico,Diesel,225,203,6.94
+834,BMW,RS6,2006,47237,Bianco,88274,1,Manuale,Benzina,228,261,3.58
+835,Audi,C-Class,2019,40904,Blu,39883,0,Manuale,Ibrida,536,276,6.05
+836,Audi,C-Class,2017,35317,Argento,140516,5,Automatico,Diesel,581,312,5.9
+837,Honda,C-Class,2023,32032,Argento,141059,4,Manuale,Ibrida,988,231,4.02
+838,Mercedes-Benz,Civic,2006,35218,Argento,110164,4,Automatico,Elettrica,1359,288,3.85
+839,Ford,Civic,2016,40442,Bianco,127590,3,Manuale,Benzina,519,196,2.62
+840,Audi,Camry,2001,16274,Rosso,84808,2,Automatico,Elettrica,180,266,6.05
+841,Ford,Malibu,2022,40898,Blu,48426,1,Automatico,Diesel,892,224,9.64
+842,BMW,Malibu,2019,40773,Blu,50416,1,Automatico,Diesel,930,277,8.56
+843,Ford,C-Class,2016,42407,Rosso,62671,3,Manuale,Elettrica,1098,280,4.37
+844,Mercedes-Benz,Focus,2013,39249,Bianco,80939,3,Automatico,Benzina,823,263,8.82
+845,Honda,C-Class,2016,41604,Rosso,101393,3,Automatico,Elettrica,1037,296,3.92
+846,Nissan,C-Class,2012,33646,Bianco,53422,5,Manuale,Ibrida,155,229,6.18
+847,BMW,C-Class,2008,27097,Argento,38864,1,Automatico,Diesel,62,308,6.67
+848,Volkswagen,Focus,2005,47493,Blu,113790,3,Automatico,Benzina,1157,214,5.37
+849,Ford,RS6,2015,22615,Argento,128651,2,Manuale,Elettrica,434,203,6.21
+850,Volkswagen,Altima,2005,45217,Argento,5442,1,Automatico,Elettrica,606,296,2.76
+851,Nissan,RS6,2007,38294,Argento,34008,0,Manuale,Diesel,345,210,5.11
+852,Ford,Altima,2013,27665,Blu,24144,1,Manuale,Benzina,791,275,3.99
+853,Nissan,Malibu,2011,42898,Bianco,80585,5,Automatico,Benzina,345,237,6.75
+854,Toyota,3 Series,2004,14155,Nero,88778,2,Automatico,Elettrica,393,298,4.59
+855,Honda,Altima,2021,47004,Rosso,9634,3,Manuale,Diesel,394,310,4.03
+856,Audi,Camry,2020,9000,Nero,114232,3,Automatico,Elettrica,1430,203,9.12
+857,Audi,Malibu,2021,42723,Blu,106164,3,Manuale,Benzina,821,255,5.53
+858,Toyota,Camry,2017,27578,Blu,10533,5,Manuale,Ibrida,987,251,7.4
+859,Ford,Civic,2012,38207,Nero,56201,3,Manuale,Ibrida,922,195,9.47
+860,Ford,Altima,2006,16354,Blu,25201,0,Manuale,Ibrida,1127,187,5.68
+861,BMW,RS6,2011,31814,Nero,116106,1,Manuale,Elettrica,1122,280,5.52
+862,Nissan,Altima,2017,28068,Bianco,1122,1,Manuale,Benzina,1415,286,2.87
+863,Audi,Altima,2012,29021,Rosso,124963,2,Automatico,Benzina,1315,262,4.91
+864,Audi,3 Series,2006,41550,Nero,56825,2,Automatico,Ibrida,220,266,7.91
+865,Toyota,Camry,2019,33105,Argento,86388,0,Manuale,Benzina,998,245,3.65
+866,Audi,Jetta,2017,36975,Bianco,81084,1,Automatico,Benzina,787,288,8.66
+867,Ford,Camry,2000,37379,Nero,108016,5,Manuale,Elettrica,1198,277,2.63
+868,Mercedes-Benz,Jetta,2015,29603,Bianco,110556,0,Automatico,Ibrida,909,200,8.06
+869,Honda,Civic,2023,25897,Nero,145918,4,Automatico,Ibrida,450,305,7.45
+870,Nissan,C-Class,2014,46009,Nero,80975,5,Automatico,Ibrida,1128,217,4.38
+871,Audi,Jetta,2018,39506,Rosso,130222,5,Automatico,Benzina,1009,224,9.55
+872,Ford,Civic,2018,48525,Blu,96602,3,Manuale,Ibrida,530,207,6.21
+873,Nissan,Focus,2021,38364,Argento,28606,0,Automatico,Benzina,1271,303,6.09
+874,BMW,RS6,2007,21717,Bianco,109174,3,Manuale,Diesel,131,268,9.57
+875,Audi,Malibu,2002,42080,Rosso,13049,2,Manuale,Ibrida,966,254,9.08
+876,Volkswagen,Malibu,2002,23741,Nero,120430,2,Automatico,Elettrica,173,305,4.28
+877,Honda,Focus,2023,17354,Bianco,86997,0,Manuale,Benzina,897,187,3.03
+878,Mercedes-Benz,Camry,2021,16361,Rosso,79663,2,Automatico,Diesel,1425,281,8.55
+879,Nissan,Malibu,2005,23632,Rosso,2536,0,Manuale,Benzina,1092,191,9.9
+880,Mercedes-Benz,C-Class,2015,12222,Nero,49768,5,Manuale,Elettrica,587,243,7.4
+881,Honda,Jetta,2022,45792,Rosso,85509,2,Manuale,Diesel,1282,216,9.98
+882,Audi,Camry,2001,32484,Nero,137278,3,Manuale,Elettrica,644,271,3.93
+883,Mercedes-Benz,Altima,2004,18544,Bianco,104802,5,Manuale,Ibrida,805,307,5.52
+884,BMW,3 Series,2021,33228,Rosso,131555,5,Automatico,Diesel,1318,242,7.84
+885,BMW,Camry,2020,11417,Nero,13519,3,Manuale,Benzina,1295,260,9.77
+886,Honda,3 Series,2005,35065,Blu,13641,0,Automatico,Diesel,930,248,4.5
+887,Volkswagen,Jetta,2023,40706,Bianco,146529,3,Automatico,Elettrica,867,277,4.64
+888,Mercedes-Benz,3 Series,2016,49100,Bianco,80994,5,Manuale,Ibrida,179,253,4.14
+889,Ford,Jetta,2023,14820,Rosso,113898,5,Manuale,Ibrida,1126,273,2.61
+890,Toyota,Camry,2019,25193,Blu,60321,5,Automatico,Ibrida,1079,230,7.37
+891,BMW,RS6,2000,26713,Blu,20401,4,Manuale,Benzina,1302,258,3.01
+892,Honda,Civic,2005,25175,Rosso,77614,4,Automatico,Diesel,1333,307,8.87
+893,Volkswagen,3 Series,2019,17999,Bianco,39078,0,Automatico,Benzina,606,205,4.85
+894,Toyota,RS6,2012,43421,Nero,99780,5,Automatico,Benzina,965,233,4.56
+895,Audi,Jetta,2009,32726,Bianco,117451,3,Manuale,Diesel,854,189,5.1
+896,Ford,Camry,2014,48359,Blu,140458,3,Automatico,Elettrica,1233,228,7.68
+897,BMW,Focus,2000,13202,Argento,45405,2,Automatico,Elettrica,222,229,9.74
+898,BMW,Focus,2003,41172,Nero,78512,5,Automatico,Elettrica,1316,256,8.2
+899,Toyota,Altima,2022,33007,Bianco,137344,5,Manuale,Elettrica,1107,285,2.9
+900,Audi,RS6,2000,8198,Argento,40014,1,Automatico,Diesel,1148,308,3.92
+901,Mercedes-Benz,Altima,2002,26048,Rosso,43920,2,Automatico,Benzina,1059,263,3.77
+902,Honda,Jetta,2004,20198,Nero,51563,1,Manuale,Ibrida,1056,300,3.67
+903,Nissan,Focus,2013,40418,Blu,88690,2,Automatico,Diesel,1146,281,3.1
+904,Volkswagen,Jetta,2008,33535,Blu,85919,3,Manuale,Diesel,226,181,7.21
+905,Nissan,RS6,2000,31906,Bianco,78793,5,Automatico,Ibrida,701,195,6.67
+906,Ford,Camry,2016,36586,Nero,41724,4,Automatico,Ibrida,1486,254,6.09
+907,Honda,3 Series,2023,42003,Blu,77396,5,Manuale,Diesel,349,300,5.78
+908,Mercedes-Benz,Civic,2021,11192,Argento,46532,3,Manuale,Diesel,441,313,4.08
+909,Honda,C-Class,2013,33617,Rosso,40153,1,Manuale,Elettrica,834,260,7.01
+910,BMW,Camry,2013,47092,Argento,37573,5,Automatico,Elettrica,302,190,9.71
+911,BMW,Civic,2022,38664,Rosso,33619,1,Manuale,Elettrica,1259,195,3.18
+912,Toyota,Altima,2023,22900,Bianco,68299,3,Automatico,Elettrica,1144,290,4.03
+913,Volkswagen,RS6,2022,43493,Blu,65863,4,Manuale,Diesel,1371,320,6.2
+914,Toyota,Focus,2023,18191,Bianco,60278,4,Manuale,Elettrica,720,277,8.13
+915,Audi,3 Series,2014,41505,Nero,57485,0,Automatico,Diesel,1426,276,8.56
+916,Mercedes-Benz,Civic,2001,31073,Blu,146159,0,Manuale,Elettrica,1354,251,6.94
+917,Nissan,Camry,2005,26717,Rosso,78623,3,Automatico,Ibrida,1371,276,7.09
+918,Toyota,Altima,2002,26067,Blu,115547,4,Manuale,Ibrida,1466,271,7.65
+919,Audi,Civic,2021,8932,Blu,70328,2,Automatico,Elettrica,981,196,4.75
+920,Audi,Jetta,2000,18603,Blu,110292,3,Automatico,Elettrica,1198,265,8.79
+921,Mercedes-Benz,C-Class,2008,18542,Blu,61381,5,Automatico,Ibrida,256,320,2.8
+922,BMW,Focus,2002,18153,Blu,63050,3,Manuale,Elettrica,1023,220,2.72
+923,Ford,Camry,2022,25309,Argento,131674,3,Automatico,Ibrida,1370,188,4.22
+924,Audi,Altima,2006,25212,Argento,15311,4,Manuale,Diesel,650,282,8.06
+925,Nissan,Altima,2005,42439,Bianco,49415,4,Automatico,Elettrica,385,184,3.89
+926,Nissan,Jetta,2003,47357,Argento,9385,5,Automatico,Benzina,115,261,6.5
+927,Honda,Altima,2008,28641,Nero,86426,0,Automatico,Ibrida,223,246,5.64
+928,Mercedes-Benz,C-Class,2007,9510,Bianco,144372,1,Automatico,Benzina,1308,289,5.48
+929,Audi,RS6,2006,42351,Bianco,77175,3,Automatico,Diesel,135,313,8.5
+930,BMW,C-Class,2016,44064,Nero,130607,1,Automatico,Benzina,207,189,9.62
+931,Mercedes-Benz,3 Series,2019,27843,Argento,81960,3,Manuale,Ibrida,432,214,6.43
+932,Audi,Civic,2016,38048,Nero,131964,0,Automatico,Elettrica,499,270,9.31
+933,Honda,RS6,2014,43528,Argento,236,2,Automatico,Ibrida,1489,248,7.07
+934,Honda,Jetta,2001,28523,Nero,73793,0,Automatico,Diesel,472,199,9.12
+935,Audi,Civic,2010,37753,Blu,130669,4,Automatico,Ibrida,228,213,6.97
+936,Ford,C-Class,2022,22998,Argento,98112,2,Automatico,Benzina,272,216,5.92
+937,Toyota,3 Series,2004,37019,Argento,35020,1,Automatico,Elettrica,949,189,9.77
+938,Audi,Civic,2005,25909,Argento,116332,5,Manuale,Ibrida,295,320,8.31
+939,Volkswagen,Focus,2018,19123,Argento,82276,1,Manuale,Elettrica,621,244,2.89
+940,Honda,C-Class,2009,18137,Rosso,3125,3,Automatico,Diesel,518,211,9.42
+941,Nissan,Malibu,2019,19062,Blu,75365,1,Manuale,Benzina,609,225,8.09
+942,Audi,Civic,2013,29071,Argento,31322,3,Automatico,Elettrica,623,278,9.36
+943,Honda,RS6,2002,30515,Argento,99465,5,Manuale,Elettrica,1309,232,2.86
+944,Mercedes-Benz,Altima,2021,27835,Blu,74924,4,Manuale,Diesel,1161,243,5.37
+945,Ford,Malibu,2012,28437,Nero,147329,1,Manuale,Benzina,1265,229,6.5
+946,Nissan,Jetta,2021,26217,Nero,12418,3,Automatico,Elettrica,1247,233,2.88
+947,Mercedes-Benz,Altima,2006,16582,Blu,48781,0,Manuale,Elettrica,1394,275,6.59
+948,Mercedes-Benz,Malibu,2009,20706,Nero,125211,1,Automatico,Ibrida,1341,188,2.56
+949,Toyota,C-Class,2008,48537,Argento,106983,5,Manuale,Elettrica,1134,299,2.73
+950,Audi,Malibu,2007,24249,Bianco,90235,1,Manuale,Elettrica,125,288,6.18
+951,Mercedes-Benz,3 Series,2003,12658,Bianco,130637,3,Automatico,Ibrida,1078,311,2.61
+952,Toyota,Jetta,2003,31956,Bianco,299,1,Automatico,Ibrida,815,273,8.17
+953,Toyota,C-Class,2002,38787,Argento,123348,5,Manuale,Ibrida,1306,223,3.45
+954,Ford,Malibu,2008,11453,Blu,119744,1,Manuale,Diesel,1493,239,7.17
+955,Ford,RS6,2017,12613,Blu,83820,5,Automatico,Benzina,1437,209,8.62
+956,Audi,Focus,2001,15613,Argento,13883,5,Manuale,Benzina,1349,307,2.66
+957,Nissan,RS6,2011,17117,Bianco,89550,2,Automatico,Elettrica,238,258,9.22
+958,Audi,Camry,2005,42387,Argento,21683,4,Manuale,Diesel,1216,282,5.63
+959,Volkswagen,Focus,2020,19923,Nero,69848,4,Manuale,Benzina,967,204,8.05
+960,Toyota,3 Series,2021,21532,Argento,74903,4,Manuale,Diesel,207,197,3.01
+961,Ford,Jetta,2017,33017,Blu,50540,0,Manuale,Diesel,1198,303,4.66
+962,Ford,Jetta,2000,12551,Bianco,9220,2,Automatico,Elettrica,1265,257,4.94
+963,Mercedes-Benz,Camry,2017,24759,Blu,26418,4,Automatico,Diesel,805,304,6.34
+964,Toyota,Civic,2006,31031,Bianco,50390,3,Automatico,Benzina,1194,261,4.99
+965,Toyota,Altima,2014,47854,Bianco,18846,1,Manuale,Diesel,208,288,6.53
+966,Volkswagen,C-Class,2001,17356,Rosso,82633,3,Automatico,Ibrida,263,224,7.61
+967,BMW,Malibu,2018,44692,Blu,39875,0,Automatico,Elettrica,653,282,2.62
+968,BMW,Altima,2011,40907,Bianco,116853,5,Manuale,Benzina,327,285,7.39
+969,Mercedes-Benz,Camry,2005,24417,Bianco,89978,3,Manuale,Elettrica,1153,308,2.84
+970,Audi,Focus,2010,29857,Blu,104791,5,Automatico,Benzina,338,296,9.21
+971,Nissan,3 Series,2006,11409,Bianco,46457,1,Automatico,Benzina,1002,184,6.11
+972,Ford,Civic,2023,19044,Rosso,116076,0,Automatico,Diesel,1375,249,7.09
+973,Toyota,Altima,2007,21990,Rosso,2283,4,Automatico,Diesel,662,295,4.28
+974,Audi,Jetta,2015,49122,Nero,1966,5,Manuale,Benzina,829,205,6.41
+975,Audi,Civic,2019,42352,Rosso,139688,4,Automatico,Elettrica,1351,216,7.09
+976,Toyota,RS6,2007,21683,Blu,15190,3,Automatico,Diesel,1018,283,8.01
+977,Nissan,Jetta,2017,49623,Argento,8311,1,Automatico,Ibrida,941,251,4.3
+978,BMW,Civic,2016,27330,Argento,143961,1,Manuale,Benzina,1301,231,5.16
+979,Volkswagen,Focus,2009,33709,Rosso,100181,4,Manuale,Ibrida,1453,266,9.55
+980,Mercedes-Benz,Jetta,2009,9489,Blu,82798,0,Manuale,Diesel,827,231,7.15
+981,BMW,C-Class,2000,47665,Argento,123545,0,Manuale,Ibrida,1141,313,4.33
+982,Honda,RS6,2010,23500,Blu,14383,0,Automatico,Diesel,360,289,4.23
+983,Toyota,Civic,2012,38577,Rosso,5930,2,Automatico,Ibrida,1195,280,8.45
+984,BMW,Jetta,2000,11493,Nero,95784,0,Manuale,Elettrica,1323,223,7.44
+985,Honda,Malibu,2004,34700,Argento,144187,0,Automatico,Diesel,165,225,3.11
+986,Honda,Focus,2005,23117,Argento,10898,5,Automatico,Elettrica,288,271,5.52
+987,Honda,3 Series,2010,29109,Nero,144014,4,Manuale,Ibrida,475,286,9.32
+988,Toyota,Focus,2020,49882,Nero,129916,0,Automatico,Ibrida,801,241,5.09
+989,Toyota,3 Series,2001,13586,Argento,107522,4,Automatico,Ibrida,1297,268,5.91
+990,Audi,Altima,2018,43603,Blu,7209,1,Manuale,Benzina,1112,232,9.21
+991,Ford,Civic,2014,34123,Argento,134872,5,Manuale,Diesel,1008,290,7.03
+992,BMW,RS6,2019,34866,Rosso,42956,0,Manuale,Benzina,393,271,4.45
+993,Nissan,Malibu,2015,24513,Nero,98324,0,Manuale,Diesel,1106,187,8.61
+994,Ford,Camry,2004,10299,Rosso,48022,5,Manuale,Benzina,1062,297,8.12
+995,Mercedes-Benz,C-Class,2013,30470,Bianco,116444,5,Manuale,Benzina,1155,262,6.65
+996,Nissan,RS6,2010,46825,Blu,92521,1,Manuale,Benzina,1369,220,3.77
+997,Nissan,C-Class,2016,33104,Argento,41212,0,Automatico,Ibrida,273,195,3.18
+998,Honda,Altima,2001,27589,Rosso,14401,5,Manuale,Benzina,574,304,5.33
+999,Volkswagen,Civic,2012,48596,Nero,43000,0,Automatico,Diesel,517,258,8.21
+1000,Ford,C-Class,2008,10484,Bianco,137059,1,Automatico,Elettrica,379,250,6.78
