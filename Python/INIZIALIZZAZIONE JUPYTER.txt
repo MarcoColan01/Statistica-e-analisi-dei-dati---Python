@@ -1,0 +1,13 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from scipy.constants import golden
+import statsmodels.api as sm
+
+plt.style.use('fivethirtyeight')
+plt.rc('figure', figsize=(5.0, 5.0/golden))
+
+heroes = pd.read_csv('../heroes.csv', sep = ';', index_col=0)
+heroes_with_year = heroes[heroes['First appearance'] < 2020]
+
+heroes_with_year
